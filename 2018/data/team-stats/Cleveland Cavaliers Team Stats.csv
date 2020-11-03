@@ -1,0 +1,105 @@
+,G,Date0,Date,Opponent,WinLoss,TmScore,OppScore,W,L,Streak,GameType
+0,1,"Tue, Oct 17, 2017",10/17/2017,Boston Celtics,W,102,99,1,0,W 1,regular season
+1,2,"Fri, Oct 20, 2017",10/20/2017,Milwaukee Bucks,W,116,97,2,0,W 2,regular season
+2,3,"Sat, Oct 21, 2017",10/21/2017,Orlando Magic,L,93,114,2,1,L 1,regular season
+3,4,"Tue, Oct 24, 2017",10/24/2017,Chicago Bulls,W,119,112,3,1,W 1,regular season
+4,5,"Wed, Oct 25, 2017",10/25/2017,Brooklyn Nets,L,107,112,3,2,L 1,regular season
+5,6,"Sat, Oct 28, 2017",10/28/2017,New Orleans Pelicans,L,101,123,3,3,L 2,regular season
+6,7,"Sun, Oct 29, 2017",10/29/2017,New York Knicks,L,95,114,3,4,L 3,regular season
+7,8,"Wed, Nov 1, 2017",11/01/2017,Indiana Pacers,L,107,124,3,5,L 4,regular season
+8,9,"Fri, Nov 3, 2017",11/03/2017,Washington Wizards,W,130,122,4,5,W 1,regular season
+9,10,"Sun, Nov 5, 2017",11/05/2017,Atlanta Hawks,L,115,117,4,6,L 1,regular season
+10,11,"Tue, Nov 7, 2017",11/07/2017,Milwaukee Bucks,W,124,119,5,6,W 1,regular season
+11,12,"Thu, Nov 9, 2017",11/09/2017,Houston Rockets,L,113,117,5,7,L 1,regular season
+12,13,"Sat, Nov 11, 2017",11/11/2017,Dallas Mavericks,W,111,104,6,7,W 1,regular season
+13,14,"Mon, Nov 13, 2017",11/13/2017,New York Knicks,W,104,101,7,7,W 2,regular season
+14,15,"Wed, Nov 15, 2017",11/15/2017,Charlotte Hornets,W,115,107,8,7,W 3,regular season
+15,16,"Fri, Nov 17, 2017",11/17/2017,Los Angeles Clippers,W,118,113,9,7,W 4,regular season
+16,17,"Mon, Nov 20, 2017",11/20/2017,Detroit Pistons,W,116,88,10,7,W 5,regular season
+17,18,"Wed, Nov 22, 2017",11/22/2017,Brooklyn Nets,W,119,109,11,7,W 6,regular season
+18,19,"Fri, Nov 24, 2017",11/24/2017,Charlotte Hornets,W,100,99,12,7,W 7,regular season
+19,20,"Mon, Nov 27, 2017",11/27/2017,Philadelphia 76ers,W,113,91,13,7,W 8,regular season
+20,21,"Tue, Nov 28, 2017",11/28/2017,Miami Heat,W,108,97,14,7,W 9,regular season
+21,22,"Thu, Nov 30, 2017",11/30/2017,Atlanta Hawks,W,121,114,15,7,W 10,regular season
+22,23,"Sat, Dec 2, 2017",12/02/2017,Memphis Grizzlies,W,116,111,16,7,W 11,regular season
+23,24,"Mon, Dec 4, 2017",12/04/2017,Chicago Bulls,W,113,91,17,7,W 12,regular season
+24,25,"Wed, Dec 6, 2017",12/06/2017,Sacramento Kings,W,101,95,18,7,W 13,regular season
+25,26,"Fri, Dec 8, 2017",12/08/2017,Indiana Pacers,L,102,106,18,8,L 1,regular season
+26,27,"Sat, Dec 9, 2017",12/09/2017,Philadelphia 76ers,W,105,98,19,8,W 1,regular season
+27,28,"Tue, Dec 12, 2017",12/12/2017,Atlanta Hawks,W,123,114,20,8,W 2,regular season
+28,29,"Thu, Dec 14, 2017",12/14/2017,Los Angeles Lakers,W,121,112,21,8,W 3,regular season
+29,30,"Sat, Dec 16, 2017",12/16/2017,Utah Jazz,W,109,100,22,8,W 4,regular season
+30,31,"Sun, Dec 17, 2017",12/17/2017,Washington Wizards,W,106,99,23,8,W 5,regular season
+31,32,"Tue, Dec 19, 2017",12/19/2017,Milwaukee Bucks,L,116,119,23,9,L 1,regular season
+32,33,"Thu, Dec 21, 2017",12/21/2017,Chicago Bulls,W,115,112,24,9,W 1,regular season
+33,34,"Mon, Dec 25, 2017",12/25/2017,Golden State Warriors,L,92,99,24,10,L 1,regular season
+34,35,"Wed, Dec 27, 2017",12/27/2017,Sacramento Kings,L,95,109,24,11,L 2,regular season
+35,36,"Sat, Dec 30, 2017",12/30/2017,Utah Jazz,L,101,104,24,12,L 3,regular season
+36,37,"Tue, Jan 2, 2018",01/02/2018,Portland Trail Blazers,W,127,110,25,12,W 1,regular season
+37,38,"Wed, Jan 3, 2018",01/03/2018,Boston Celtics,L,88,102,25,13,L 1,regular season
+38,39,"Sat, Jan 6, 2018",01/06/2018,Orlando Magic,W,131,127,26,13,W 1,regular season
+39,40,"Mon, Jan 8, 2018",01/08/2018,Minnesota Timberwolves,L,99,127,26,14,L 1,regular season
+40,41,"Thu, Jan 11, 2018",01/11/2018,Toronto Raptors,L,99,133,26,15,L 2,regular season
+41,42,"Fri, Jan 12, 2018",01/12/2018,Indiana Pacers,L,95,97,26,16,L 3,regular season
+42,43,"Mon, Jan 15, 2018",01/15/2018,Golden State Warriors,L,108,118,26,17,L 4,regular season
+43,44,"Thu, Jan 18, 2018",01/18/2018,Orlando Magic,W,104,103,27,17,W 1,regular season
+44,45,"Sat, Jan 20, 2018",01/20/2018,Oklahoma City Thunder,L,124,148,27,18,L 1,regular season
+45,46,"Tue, Jan 23, 2018",01/23/2018,San Antonio Spurs,L,102,114,27,19,L 2,regular season
+46,47,"Fri, Jan 26, 2018",01/26/2018,Indiana Pacers,W,115,108,28,19,W 1,regular season
+47,48,"Sun, Jan 28, 2018",01/28/2018,Detroit Pistons,W,121,104,29,19,W 2,regular season
+48,49,"Tue, Jan 30, 2018",01/30/2018,Detroit Pistons,L,114,125,29,20,L 1,regular season
+49,50,"Wed, Jan 31, 2018",01/31/2018,Miami Heat,W,91,89,30,20,W 1,regular season
+50,51,"Sat, Feb 3, 2018",02/03/2018,Houston Rockets,L,88,120,30,21,L 1,regular season
+51,52,"Tue, Feb 6, 2018",02/06/2018,Orlando Magic,L,98,116,30,22,L 2,regular season
+52,53,"Wed, Feb 7, 2018",02/07/2018,Minnesota Timberwolves,W,140,138,31,22,W 1,regular season
+53,54,"Fri, Feb 9, 2018",02/09/2018,Atlanta Hawks,W,123,107,32,22,W 2,regular season
+54,55,"Sun, Feb 11, 2018",02/11/2018,Boston Celtics,W,121,99,33,22,W 3,regular season
+55,56,"Tue, Feb 13, 2018",02/13/2018,Oklahoma City Thunder,W,120,112,34,22,W 4,regular season
+56,57,"Thu, Feb 22, 2018",02/22/2018,Washington Wizards,L,103,110,34,23,L 1,regular season
+57,58,"Fri, Feb 23, 2018",02/23/2018,Memphis Grizzlies,W,112,89,35,23,W 1,regular season
+58,59,"Sun, Feb 25, 2018",02/25/2018,San Antonio Spurs,L,94,110,35,24,L 1,regular season
+59,60,"Tue, Feb 27, 2018",02/27/2018,Brooklyn Nets,W,129,123,36,24,W 1,regular season
+60,61,"Thu, Mar 1, 2018",03/01/2018,Philadelphia 76ers,L,97,108,36,25,L 1,regular season
+61,62,"Sat, Mar 3, 2018",03/03/2018,Denver Nuggets,L,117,126,36,26,L 2,regular season
+62,63,"Mon, Mar 5, 2018",03/05/2018,Detroit Pistons,W,112,90,37,26,W 1,regular season
+63,64,"Wed, Mar 7, 2018",03/07/2018,Denver Nuggets,W,113,108,38,26,W 2,regular season
+64,65,"Fri, Mar 9, 2018",03/09/2018,Los Angeles Clippers,L,102,116,38,27,L 1,regular season
+65,66,"Sun, Mar 11, 2018",03/11/2018,Los Angeles Lakers,L,113,127,38,28,L 2,regular season
+66,67,"Tue, Mar 13, 2018",03/13/2018,Phoenix Suns,W,129,107,39,28,W 1,regular season
+67,68,"Thu, Mar 15, 2018",03/15/2018,Portland Trail Blazers,L,105,113,39,29,L 1,regular season
+68,69,"Sat, Mar 17, 2018",03/17/2018,Chicago Bulls,W,114,109,40,29,W 1,regular season
+69,70,"Mon, Mar 19, 2018",03/19/2018,Milwaukee Bucks,W,124,117,41,29,W 2,regular season
+70,71,"Wed, Mar 21, 2018",03/21/2018,Toronto Raptors,W,132,129,42,29,W 3,regular season
+71,72,"Fri, Mar 23, 2018",03/23/2018,Phoenix Suns,W,120,95,43,29,W 4,regular season
+72,73,"Sun, Mar 25, 2018",03/25/2018,Brooklyn Nets,W,121,114,44,29,W 5,regular season
+73,74,"Tue, Mar 27, 2018",03/27/2018,Miami Heat,L,79,98,44,30,L 1,regular season
+74,75,"Wed, Mar 28, 2018",03/28/2018,Charlotte Hornets,W,118,105,45,30,W 1,regular season
+75,76,"Fri, Mar 30, 2018",03/30/2018,New Orleans Pelicans,W,107,102,46,30,W 2,regular season
+76,77,"Sun, Apr 1, 2018",04/01/2018,Dallas Mavericks,W,98,87,47,30,W 3,regular season
+77,78,"Tue, Apr 3, 2018",04/03/2018,Toronto Raptors,W,112,106,48,30,W 4,regular season
+78,79,"Thu, Apr 5, 2018",04/05/2018,Washington Wizards,W,119,115,49,30,W 5,regular season
+79,80,"Fri, Apr 6, 2018",04/06/2018,Philadelphia 76ers,L,130,132,49,31,L 1,regular season
+80,81,"Mon, Apr 9, 2018",04/09/2018,New York Knicks,W,123,109,50,31,W 1,regular season
+81,82,"Wed, Apr 11, 2018",04/11/2018,New York Knicks,L,98,110,50,32,L 1,regular season
+82,1,"Sun, Apr 15, 2018",04/15/2018,Indiana Pacers,L,80,98,0,1,L 1,playoffs
+83,2,"Wed, Apr 18, 2018",04/18/2018,Indiana Pacers,W,100,97,1,1,W 1,playoffs
+84,3,"Fri, Apr 20, 2018",04/20/2018,Indiana Pacers,L,90,92,1,2,L 1,playoffs
+85,4,"Sun, Apr 22, 2018",04/22/2018,Indiana Pacers,W,104,100,2,2,W 1,playoffs
+86,5,"Wed, Apr 25, 2018",04/25/2018,Indiana Pacers,W,98,95,3,2,W 2,playoffs
+87,6,"Fri, Apr 27, 2018",04/27/2018,Indiana Pacers,L,87,121,3,3,L 1,playoffs
+88,7,"Sun, Apr 29, 2018",04/29/2018,Indiana Pacers,W,105,101,4,3,W 1,playoffs
+89,8,"Tue, May 1, 2018",05/01/2018,Toronto Raptors,W,113,112,5,3,W 2,playoffs
+90,9,"Thu, May 3, 2018",05/03/2018,Toronto Raptors,W,128,110,6,3,W 3,playoffs
+91,10,"Sat, May 5, 2018",05/05/2018,Toronto Raptors,W,105,103,7,3,W 4,playoffs
+92,11,"Mon, May 7, 2018",05/07/2018,Toronto Raptors,W,128,93,8,3,W 5,playoffs
+93,12,"Sun, May 13, 2018",05/13/2018,Boston Celtics,L,83,108,8,4,L 1,playoffs
+94,13,"Tue, May 15, 2018",05/15/2018,Boston Celtics,L,94,107,8,5,L 2,playoffs
+95,14,"Sat, May 19, 2018",05/19/2018,Boston Celtics,W,116,86,9,5,W 1,playoffs
+96,15,"Mon, May 21, 2018",05/21/2018,Boston Celtics,W,111,102,10,5,W 2,playoffs
+97,16,"Wed, May 23, 2018",05/23/2018,Boston Celtics,L,83,96,10,6,L 1,playoffs
+98,17,"Fri, May 25, 2018",05/25/2018,Boston Celtics,W,109,99,11,6,W 1,playoffs
+99,18,"Sun, May 27, 2018",05/27/2018,Boston Celtics,W,87,79,12,6,W 2,playoffs
+100,19,"Thu, May 31, 2018",05/31/2018,Golden State Warriors,L,114,124,12,7,L 1,playoffs
+101,20,"Sun, Jun 3, 2018",06/03/2018,Golden State Warriors,L,103,122,12,8,L 2,playoffs
+102,21,"Wed, Jun 6, 2018",06/06/2018,Golden State Warriors,L,102,110,12,9,L 3,playoffs
+103,22,"Fri, Jun 8, 2018",06/08/2018,Golden State Warriors,L,85,108,12,10,L 4,playoffs

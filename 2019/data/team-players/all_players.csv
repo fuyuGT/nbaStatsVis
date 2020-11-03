@@ -1,0 +1,623 @@
+,name,positions,player_url,number,height,weight,team,Year
+0,Jaylen Adams,PG,https://www.basketball-reference.com/players/a/adamsja01.html,10,6-2,190,Atlanta Hawks,2019
+1,Justin Anderson,SF,https://www.basketball-reference.com/players/a/anderju01.html,1,6-6,230,Atlanta Hawks,2019
+2,Kent Bazemore,SG,https://www.basketball-reference.com/players/b/bazemke01.html,24,6-4,195,Atlanta Hawks,2019
+3,DeAndre' Bembry,SG,https://www.basketball-reference.com/players/b/bembrde01.html,95,6-5,210,Atlanta Hawks,2019
+4,Vince Carter,PF,https://www.basketball-reference.com/players/c/cartevi01.html,15,6-6,220,Atlanta Hawks,2019
+5,John Collins,PF,https://www.basketball-reference.com/players/c/collijo01.html,20,6-9,235,Atlanta Hawks,2019
+6,Deyonta Davis,C,https://www.basketball-reference.com/players/d/davisde01.html,4,6-11,237,Atlanta Hawks,2019
+7,Dewayne Dedmon,C,https://www.basketball-reference.com/players/d/dedmode01.html,14,7-0,245,Atlanta Hawks,2019
+8,Tyler Dorsey,SG,https://www.basketball-reference.com/players/d/dorsety01.html,2,6-5,183,Atlanta Hawks,2019
+9,Daniel Hamilton,SG,https://www.basketball-reference.com/players/h/hamilda02.html,5,6-7,195,Atlanta Hawks,2019
+10,Kevin Huerter,SG,https://www.basketball-reference.com/players/h/huertke01.html,3,6-7,190,Atlanta Hawks,2019
+11,Isaac Humphries,C,https://www.basketball-reference.com/players/h/humphis01.html,8,7-0,255,Atlanta Hawks,2019
+12,B.J. Johnson,SF,https://www.basketball-reference.com/players/j/johnsbj01.html,5,6-7,200,Atlanta Hawks,2019
+13,Alex Len,C,https://www.basketball-reference.com/players/l/lenal01.html,25,7-0,250,Atlanta Hawks,2019
+14,Jeremy Lin,PG,https://www.basketball-reference.com/players/l/linje01.html,7,6-3,200,Atlanta Hawks,2019
+15,Miles Plumlee,C,https://www.basketball-reference.com/players/p/plumlmi01.html,18,6-11,249,Atlanta Hawks,2019
+16,Alex Poythress,PF,https://www.basketball-reference.com/players/p/poythal01.html,22,6-9,235,Atlanta Hawks,2019
+17,Jordan Sibert,SG,https://www.basketball-reference.com/players/s/siberjo01.html,8,6-4,187,Atlanta Hawks,2019
+18,Omari Spellman,PF,https://www.basketball-reference.com/players/s/spellom01.html,6,6-8,245,Atlanta Hawks,2019
+19,Taurean Waller-Prince,SF,https://www.basketball-reference.com/players/p/princta02.html,12,6-7,218,Atlanta Hawks,2019
+20,Trae Young,PG,https://www.basketball-reference.com/players/y/youngtr01.html,11,6-1,180,Atlanta Hawks,2019
+21,Tyler Zeller,C,https://www.basketball-reference.com/players/z/zellety01.html,45,7-0,253,Atlanta Hawks,2019
+22,Aron Baynes,C,https://www.basketball-reference.com/players/b/baynear01.html,46,6-10,260,Boston Celtics,2019
+23,Jaylen Brown,SG,https://www.basketball-reference.com/players/b/brownja02.html,7,6-6,223,Boston Celtics,2019
+24,PJ Dozier,SG,https://www.basketball-reference.com/players/d/doziepj01.html,50,6-6,205,Boston Celtics,2019
+25,Gordon Hayward,PF,https://www.basketball-reference.com/players/h/haywago01.html,20,6-7,225,Boston Celtics,2019
+26,Al Horford,C,https://www.basketball-reference.com/players/h/horfoal01.html,42,6-9,240,Boston Celtics,2019
+27,R.J. Hunter,SG,https://www.basketball-reference.com/players/h/hunterj01.html,28,6-5,185,Boston Celtics,2019
+28,Kyrie Irving,PG,https://www.basketball-reference.com/players/i/irvinky01.html,11,6-2,195,Boston Celtics,2019
+29,Greg Monroe,C,https://www.basketball-reference.com/players/m/monrogr01.html,55,6-11,265,Boston Celtics,2019
+30,Marcus Morris,PF,https://www.basketball-reference.com/players/m/morrima03.html,13,6-8,218,Boston Celtics,2019
+31,Semi Ojeleye,PF,https://www.basketball-reference.com/players/o/ojelese01.html,37,6-6,240,Boston Celtics,2019
+32,Terry Rozier,PG,https://www.basketball-reference.com/players/r/roziete01.html,12,6-1,190,Boston Celtics,2019
+33,Marcus Smart,SG,https://www.basketball-reference.com/players/s/smartma01.html,36,6-3,220,Boston Celtics,2019
+34,Jayson Tatum,SF,https://www.basketball-reference.com/players/t/tatumja01.html,0,6-8,210,Boston Celtics,2019
+35,Daniel Theis,C,https://www.basketball-reference.com/players/t/theisda01.html,27,6-8,245,Boston Celtics,2019
+36,Brad Wanamaker,PG,https://www.basketball-reference.com/players/w/wanambr01.html,9,6-3,210,Boston Celtics,2019
+37,Robert Williams,C,https://www.basketball-reference.com/players/w/williro04.html,44,6-8,237,Boston Celtics,2019
+38,Guerschon Yabusele,PF,https://www.basketball-reference.com/players/y/yabusgu01.html,30,6-8,260,Boston Celtics,2019
+39,Jarrett Allen,C,https://www.basketball-reference.com/players/a/allenja01.html,31,6-11,243,Brooklyn Nets,2019
+40,DeMarre Carroll,PF,https://www.basketball-reference.com/players/c/carrode01.html,9,6-6,215,Brooklyn Nets,2019
+41,Allen Crabbe,SG,https://www.basketball-reference.com/players/c/crabbal01.html,33,6-5,212,Brooklyn Nets,2019
+42,Mitch Creek,SF,https://www.basketball-reference.com/players/c/creekmi01.html,55,6-5,216,Brooklyn Nets,2019
+43,Ed Davis,C,https://www.basketball-reference.com/players/d/davised01.html,17,6-9,218,Brooklyn Nets,2019
+44,Spencer Dinwiddie,PG,https://www.basketball-reference.com/players/d/dinwisp01.html,8,6-5,215,Brooklyn Nets,2019
+45,Jared Dudley,PF,https://www.basketball-reference.com/players/d/dudleja01.html,6,6-6,237,Brooklyn Nets,2019
+46,Kenneth Faried,C,https://www.basketball-reference.com/players/f/farieke01.html,35,6-8,220,Brooklyn Nets,2019
+47,Treveon Graham,SG,https://www.basketball-reference.com/players/g/grahatr01.html,21,6-5,219,Brooklyn Nets,2019
+48,Joe Harris,SG,https://www.basketball-reference.com/players/h/harrijo01.html,12,6-6,220,Brooklyn Nets,2019
+49,Rondae Hollis-Jefferson,SF,https://www.basketball-reference.com/players/h/holliro01.html,24,6-6,217,Brooklyn Nets,2019
+50,Rodions Kurucs,SF,https://www.basketball-reference.com/players/k/kurucro01.html,00,6-9,228,Brooklyn Nets,2019
+51,Caris LeVert,SF,https://www.basketball-reference.com/players/l/leverca01.html,22,6-6,205,Brooklyn Nets,2019
+52,Tahjere McCall,SG,https://www.basketball-reference.com/players/m/mccalta01.html,0,6-5,195,Brooklyn Nets,2019
+53,Dzanan Musa,SG,https://www.basketball-reference.com/players/m/musadz01.html,30,6-9,217,Brooklyn Nets,2019
+54,Shabazz Napier,PG,https://www.basketball-reference.com/players/n/napiesh01.html,13,6-0,175,Brooklyn Nets,2019
+55,Theo Pinson,SG,https://www.basketball-reference.com/players/p/pinsoth01.html,10,6-5,212,Brooklyn Nets,2019
+56,D'Angelo Russell,PG,https://www.basketball-reference.com/players/r/russeda01.html,1,6-4,193,Brooklyn Nets,2019
+57,Alan Williams,PF,https://www.basketball-reference.com/players/w/willial03.html,15,6-8,265,Brooklyn Nets,2019
+58,Dwayne Bacon,SG,https://www.basketball-reference.com/players/b/bacondw01.html,7,6-6,221,Charlotte Hornets,2019
+59,Nicolas Batum,SF,https://www.basketball-reference.com/players/b/batumni01.html,5,6-9,230,Charlotte Hornets,2019
+60,Bismack Biyombo,C,https://www.basketball-reference.com/players/b/biyombi01.html,8,6-8,255,Charlotte Hornets,2019
+61,Miles Bridges,SF,https://www.basketball-reference.com/players/b/bridgmi02.html,0,6-6,225,Charlotte Hornets,2019
+62,Joe Chealey,PG,https://www.basketball-reference.com/players/c/chealjo01.html,31,6-3,190,Charlotte Hornets,2019
+63,Devonte' Graham,PG,https://www.basketball-reference.com/players/g/grahade01.html,4,6-1,195,Charlotte Hornets,2019
+64,Willy Hernangomez,C,https://www.basketball-reference.com/players/h/hernawi01.html,41,6-11,250,Charlotte Hornets,2019
+65,Frank Kaminsky,C,https://www.basketball-reference.com/players/k/kaminfr01.html,44,7-0,240,Charlotte Hornets,2019
+66,Michael Kidd-Gilchrist,PF,https://www.basketball-reference.com/players/k/kiddgmi01.html,14,6-6,232,Charlotte Hornets,2019
+67,Jeremy Lamb,SG,https://www.basketball-reference.com/players/l/lambje01.html,3,6-5,180,Charlotte Hornets,2019
+68,Shelvin Mack,PG,https://www.basketball-reference.com/players/m/macksh01.html,6,6-3,203,Charlotte Hornets,2019
+69,J.P. Macura,SG,https://www.basketball-reference.com/players/m/macurjp01.html,55,6-5,203,Charlotte Hornets,2019
+70,Malik Monk,SG,https://www.basketball-reference.com/players/m/monkma01.html,1,6-3,200,Charlotte Hornets,2019
+71,Tony Parker,PG,https://www.basketball-reference.com/players/p/parketo01.html,9,6-2,185,Charlotte Hornets,2019
+72,Kemba Walker,PG,https://www.basketball-reference.com/players/w/walkeke02.html,15,6-0,184,Charlotte Hornets,2019
+73,Marvin Williams,PF,https://www.basketball-reference.com/players/w/willima02.html,2,6-8,237,Charlotte Hornets,2019
+74,Cody Zeller,C,https://www.basketball-reference.com/players/z/zelleco01.html,40,7-0,240,Charlotte Hornets,2019
+75,Rawle Alkins,SG,https://www.basketball-reference.com/players/a/alkinra01.html,20,6-5,225,Chicago Bulls,2019
+76,Ryan Arcidiacono,PG,https://www.basketball-reference.com/players/a/arcidry01.html,51,6-3,195,Chicago Bulls,2019
+77,Antonio Blakeney,SG,https://www.basketball-reference.com/players/b/blakean01.html,9,6-4,192,Chicago Bulls,2019
+78,Wendell Carter,C,https://www.basketball-reference.com/players/c/cartewe01.html,34,6-9,270,Chicago Bulls,2019
+79,Kris Dunn,PG,https://www.basketball-reference.com/players/d/dunnkr01.html,32,6-3,205,Chicago Bulls,2019
+80,Cristiano Felicio,C,https://www.basketball-reference.com/players/f/feliccr01.html,6,6-10,270,Chicago Bulls,2019
+81,Shaquille Harrison,SG,https://www.basketball-reference.com/players/h/harrish01.html,3,6-7,190,Chicago Bulls,2019
+82,Justin Holiday,SG,https://www.basketball-reference.com/players/h/holidju01.html,7,6-6,180,Chicago Bulls,2019
+83,Chandler Hutchison,SF,https://www.basketball-reference.com/players/h/hutchch01.html,15,6-7,210,Chicago Bulls,2019
+84,Zach LaVine,SG,https://www.basketball-reference.com/players/l/lavinza01.html,8,6-6,200,Chicago Bulls,2019
+85,Walt Lemon,PG,https://www.basketball-reference.com/players/l/lemonwa01.html,25,6-3,180,Chicago Bulls,2019
+86,Robin Lopez,C,https://www.basketball-reference.com/players/l/lopezro01.html,42,7-0,281,Chicago Bulls,2019
+87,Timothe Luwawu-Cabarrot,SF,https://www.basketball-reference.com/players/l/luwawti01.html,7,6-7,220,Chicago Bulls,2019
+88,Lauri Markkanen,PF,https://www.basketball-reference.com/players/m/markkla01.html,24,7-0,240,Chicago Bulls,2019
+89,Jabari Parker,PF,https://www.basketball-reference.com/players/p/parkeja01.html,2,6-8,245,Chicago Bulls,2019
+90,Cameron Payne,PG,https://www.basketball-reference.com/players/p/payneca01.html,22,6-3,190,Chicago Bulls,2019
+91,Otto Porter,SF,https://www.basketball-reference.com/players/p/porteot01.html,22,6-8,198,Chicago Bulls,2019
+92,Bobby Portis,PF,https://www.basketball-reference.com/players/p/portibo01.html,5,6-10,250,Chicago Bulls,2019
+93,Brandon Sampson,SG,https://www.basketball-reference.com/players/s/sampsbr01.html,44,6-5,184,Chicago Bulls,2019
+94,JaKarr Sampson,SF,https://www.basketball-reference.com/players/s/sampsja02.html,41,6-7,214,Chicago Bulls,2019
+95,Wayne Selden,SG,https://www.basketball-reference.com/players/s/seldewa01.html,14,6-5,230,Chicago Bulls,2019
+96,Tyler Ulis,PG,https://www.basketball-reference.com/players/u/ulisty01.html,0,5-10,160,Chicago Bulls,2019
+97,Deng Adel,SF,https://www.basketball-reference.com/players/a/adelde01.html,32,6-7,200,Cleveland Cavaliers,2019
+98,Jaron Blossomgame,SF,https://www.basketball-reference.com/players/b/blossja01.html,4,6-8,220,Cleveland Cavaliers,2019
+99,Alec Burks,SG,https://www.basketball-reference.com/players/b/burksal01.html,10,6-6,214,Cleveland Cavaliers,2019
+100,Marquese Chriss,PF,https://www.basketball-reference.com/players/c/chrisma01.html,3,6-9,240,Cleveland Cavaliers,2019
+101,Jordan Clarkson,SG,https://www.basketball-reference.com/players/c/clarkjo01.html,8,6-4,194,Cleveland Cavaliers,2019
+102,Sam Dekker,PF,https://www.basketball-reference.com/players/d/dekkesa01.html,15,6-9,230,Cleveland Cavaliers,2019
+103,Matthew Dellavedova,PG,https://www.basketball-reference.com/players/d/dellama01.html,18,6-3,200,Cleveland Cavaliers,2019
+104,Channing Frye,C,https://www.basketball-reference.com/players/f/fryech01.html,9,7-0,255,Cleveland Cavaliers,2019
+105,Andrew Harrison,PG,https://www.basketball-reference.com/players/h/harrian01.html,55,6-6,213,Cleveland Cavaliers,2019
+106,George Hill,PG,https://www.basketball-reference.com/players/h/hillge01.html,3,6-3,188,Cleveland Cavaliers,2019
+107,John Holland,SF,https://www.basketball-reference.com/players/h/hollajo02.html,10,6-5,205,Cleveland Cavaliers,2019
+108,Rodney Hood,SG,https://www.basketball-reference.com/players/h/hoodro01.html,1,6-8,208,Cleveland Cavaliers,2019
+109,Jalen Jones,SF,https://www.basketball-reference.com/players/j/jonesja04.html,21,6-7,220,Cleveland Cavaliers,2019
+110,Brandon Knight,PG,https://www.basketball-reference.com/players/k/knighbr03.html,20,6-2,182,Cleveland Cavaliers,2019
+111,Kyle Korver,PF,https://www.basketball-reference.com/players/k/korveky01.html,26,6-7,212,Cleveland Cavaliers,2019
+112,Kevin Love,PF,https://www.basketball-reference.com/players/l/loveke01.html,0,6-8,251,Cleveland Cavaliers,2019
+113,Patrick McCaw,SG,https://www.basketball-reference.com/players/m/mccawpa01.html,3,6-7,181,Cleveland Cavaliers,2019
+114,Larry Nance,C,https://www.basketball-reference.com/players/n/nancela02.html,22,6-7,245,Cleveland Cavaliers,2019
+115,David Nwaba,SG,https://www.basketball-reference.com/players/n/nwabada01.html,12,6-5,219,Cleveland Cavaliers,2019
+116,Cedi Osman,SF,https://www.basketball-reference.com/players/o/osmande01.html,16,6-7,230,Cleveland Cavaliers,2019
+117,Cameron Payne,PG,https://www.basketball-reference.com/players/p/payneca01.html,3,6-3,190,Cleveland Cavaliers,2019
+118,Collin Sexton,PG,https://www.basketball-reference.com/players/s/sextoco01.html,2,6-1,190,Cleveland Cavaliers,2019
+119,Kobi Simmons,PG,https://www.basketball-reference.com/players/s/simmoko01.html,3,6-5,166,Cleveland Cavaliers,2019
+120,J.R. Smith,SG,https://www.basketball-reference.com/players/s/smithjr01.html,5,6-6,225,Cleveland Cavaliers,2019
+121,Nik Stauskas,SG,https://www.basketball-reference.com/players/s/stausni01.html,1,6-6,205,Cleveland Cavaliers,2019
+122,Tristan Thompson,C,https://www.basketball-reference.com/players/t/thomptr01.html,13,6-9,254,Cleveland Cavaliers,2019
+123,Ante Zizic,C,https://www.basketball-reference.com/players/z/zizican01.html,41,6-10,266,Cleveland Cavaliers,2019
+124,Kostas Antetokounmpo,PF,https://www.basketball-reference.com/players/a/antetko01.html,37,6-10,200,Dallas Mavericks,2019
+125,J.J. Barea,PG,https://www.basketball-reference.com/players/b/bareajo01.html,5,5-10,180,Dallas Mavericks,2019
+126,Harrison Barnes,PF,https://www.basketball-reference.com/players/b/barneha02.html,40,6-8,225,Dallas Mavericks,2019
+127,Ryan Broekhoff,SG,https://www.basketball-reference.com/players/b/broekry01.html,45,6-6,215,Dallas Mavericks,2019
+128,Jalen Brunson,PG,https://www.basketball-reference.com/players/b/brunsja01.html,13,6-1,190,Dallas Mavericks,2019
+129,Trey Burke,PG,https://www.basketball-reference.com/players/b/burketr01.html,23,6-0,185,Dallas Mavericks,2019
+130,Luka Doncic,SG,https://www.basketball-reference.com/players/d/doncilu01.html,77,6-7,230,Dallas Mavericks,2019
+131,Dorian Finney-Smith,SF,https://www.basketball-reference.com/players/f/finnedo01.html,10,6-7,220,Dallas Mavericks,2019
+132,Tim Hardaway,SG,https://www.basketball-reference.com/players/h/hardati02.html,11,6-5,205,Dallas Mavericks,2019
+133,Devin Harris,PG,https://www.basketball-reference.com/players/h/harride01.html,34,6-3,185,Dallas Mavericks,2019
+134,Justin Jackson,SF,https://www.basketball-reference.com/players/j/jacksju01.html,44,6-7,220,Dallas Mavericks,2019
+135,DeAndre Jordan,C,https://www.basketball-reference.com/players/j/jordade01.html,6,6-11,265,Dallas Mavericks,2019
+136,Maxi Kleber,PF,https://www.basketball-reference.com/players/k/klebima01.html,42,6-10,240,Dallas Mavericks,2019
+137,Courtney Lee,SG,https://www.basketball-reference.com/players/l/leeco01.html,1,6-5,215,Dallas Mavericks,2019
+138,Daryl Macon,SG,https://www.basketball-reference.com/players/m/maconda01.html,3,6-2,185,Dallas Mavericks,2019
+139,Wesley Matthews,SF,https://www.basketball-reference.com/players/m/matthwe02.html,23,6-4,220,Dallas Mavericks,2019
+140,Salah Mejri,C,https://www.basketball-reference.com/players/m/mejrisa01.html,50,7-2,235,Dallas Mavericks,2019
+141,Dirk Nowitzki,PF,https://www.basketball-reference.com/players/n/nowitdi01.html,41,7-0,245,Dallas Mavericks,2019
+142,Dwight Powell,C,https://www.basketball-reference.com/players/p/poweldw01.html,7,6-10,240,Dallas Mavericks,2019
+143,Dennis Smith,PG,https://www.basketball-reference.com/players/s/smithde03.html,1,6-2,205,Dallas Mavericks,2019
+144,Ray Spalding,PF,https://www.basketball-reference.com/players/s/spaldra01.html,26,6-10,215,Dallas Mavericks,2019
+145,DeVaughn Akoon-Purcell,SG,https://www.basketball-reference.com/players/a/akoonde01.html,23,6-6,200,Denver Nuggets,2019
+146,Will Barton,SF,https://www.basketball-reference.com/players/b/bartowi01.html,5,6-5,181,Denver Nuggets,2019
+147,Malik Beasley,SG,https://www.basketball-reference.com/players/b/beaslma01.html,25,6-4,187,Denver Nuggets,2019
+148,Torrey Craig,SF,https://www.basketball-reference.com/players/c/craigto01.html,3,6-7,221,Denver Nuggets,2019
+149,Brandon Goodwin,PG,https://www.basketball-reference.com/players/g/goodwbr01.html,6,6-0,180,Denver Nuggets,2019
+150,Gary Harris,SG,https://www.basketball-reference.com/players/h/harriga01.html,14,6-4,210,Denver Nuggets,2019
+151,Juan Hernangomez,PF,https://www.basketball-reference.com/players/h/hernaju01.html,41,6-9,214,Denver Nuggets,2019
+152,Nikola Jokic,C,https://www.basketball-reference.com/players/j/jokicni01.html,15,7-0,284,Denver Nuggets,2019
+153,Tyler Lydon,PF,https://www.basketball-reference.com/players/l/lydonty01.html,20,6-10,225,Denver Nuggets,2019
+154,Trey Lyles,PF,https://www.basketball-reference.com/players/l/lylestr01.html,7,6-9,234,Denver Nuggets,2019
+155,Paul Millsap,PF,https://www.basketball-reference.com/players/m/millspa01.html,4,6-7,257,Denver Nuggets,2019
+156,Monte Morris,PG,https://www.basketball-reference.com/players/m/morrimo01.html,11,6-2,183,Denver Nuggets,2019
+157,Jamal Murray,PG,https://www.basketball-reference.com/players/m/murraja01.html,27,6-4,215,Denver Nuggets,2019
+158,Mason Plumlee,C,https://www.basketball-reference.com/players/p/plumlma01.html,24,6-11,254,Denver Nuggets,2019
+159,Isaiah Thomas,SG,https://www.basketball-reference.com/players/t/thomais02.html,0,5-9,185,Denver Nuggets,2019
+160,Jarred Vanderbilt,PF,https://www.basketball-reference.com/players/v/vandeja01.html,8,6-9,214,Denver Nuggets,2019
+161,Thomas Welsh,C,https://www.basketball-reference.com/players/w/welshth01.html,45,7-0,255,Denver Nuggets,2019
+162,Nick Young,SG,https://www.basketball-reference.com/players/y/youngni01.html,34,6-7,210,Denver Nuggets,2019
+163,Bruce Brown,SG,https://www.basketball-reference.com/players/b/brownbr01.html,6,6-4,202,Detroit Pistons,2019
+164,Reggie Bullock,SG,https://www.basketball-reference.com/players/b/bullore01.html,25,6-6,205,Detroit Pistons,2019
+165,Jose Calderon,PG,https://www.basketball-reference.com/players/c/caldejo01.html,81,6-3,200,Detroit Pistons,2019
+166,Andre Drummond,C,https://www.basketball-reference.com/players/d/drumman01.html,0,6-10,279,Detroit Pistons,2019
+167,Henry Ellenson,PF,https://www.basketball-reference.com/players/e/ellenhe01.html,8,6-10,240,Detroit Pistons,2019
+168,Wayne Ellington,SG,https://www.basketball-reference.com/players/e/ellinwa01.html,20,6-4,207,Detroit Pistons,2019
+169,Langston Galloway,SG,https://www.basketball-reference.com/players/g/gallola01.html,9,6-1,200,Detroit Pistons,2019
+170,Blake Griffin,PF,https://www.basketball-reference.com/players/g/griffbl01.html,23,6-9,250,Detroit Pistons,2019
+171,Reggie Jackson,PG,https://www.basketball-reference.com/players/j/jacksre01.html,1,6-3,208,Detroit Pistons,2019
+172,Stanley Johnson,SF,https://www.basketball-reference.com/players/j/johnsst04.html,7,6-6,242,Detroit Pistons,2019
+173,Luke Kennard,SG,https://www.basketball-reference.com/players/k/kennalu01.html,5,6-5,206,Detroit Pistons,2019
+174,Jon Leuer,PF,https://www.basketball-reference.com/players/l/leuerjo01.html,30,6-10,228,Detroit Pistons,2019
+175,Zach Lofton,SG,https://www.basketball-reference.com/players/l/loftoza01.html,18,6-4,180,Detroit Pistons,2019
+176,Kalin Lucas,PG,https://www.basketball-reference.com/players/l/lucaska01.html,24,6-1,195,Detroit Pistons,2019
+177,Thon Maker,PF,https://www.basketball-reference.com/players/m/makerth01.html,7,7-0,221,Detroit Pistons,2019
+178,Sviatoslav Mykhailiuk,SF,https://www.basketball-reference.com/players/m/mykhasv01.html,19,6-7,205,Detroit Pistons,2019
+179,Zaza Pachulia,C,https://www.basketball-reference.com/players/p/pachuza01.html,27,6-11,270,Detroit Pistons,2019
+180,Glenn Robinson,SF,https://www.basketball-reference.com/players/r/robingl02.html,22,6-6,222,Detroit Pistons,2019
+181,Ish Smith,PG,https://www.basketball-reference.com/players/s/smithis01.html,14,6-0,175,Detroit Pistons,2019
+182,Khyri Thomas,SG,https://www.basketball-reference.com/players/t/thomakh01.html,13,6-3,210,Detroit Pistons,2019
+183,Jordan Bell,C,https://www.basketball-reference.com/players/b/belljo01.html,2,6-8,216,Golden State Warriors,2019
+184,Andrew Bogut,C,https://www.basketball-reference.com/players/b/bogutan01.html,12,7-0,260,Golden State Warriors,2019
+185,Quinn Cook,PG,https://www.basketball-reference.com/players/c/cookqu01.html,4,6-1,180,Golden State Warriors,2019
+186,DeMarcus Cousins,C,https://www.basketball-reference.com/players/c/couside01.html,0,6-10,270,Golden State Warriors,2019
+187,Stephen Curry,PG,https://www.basketball-reference.com/players/c/curryst01.html,30,6-3,185,Golden State Warriors,2019
+188,Marcus Derrickson,PF,https://www.basketball-reference.com/players/d/derrima01.html,32,6-7,249,Golden State Warriors,2019
+189,Kevin Durant,SF,https://www.basketball-reference.com/players/d/duranke01.html,35,6-10,240,Golden State Warriors,2019
+190,Jacob Evans,SG,https://www.basketball-reference.com/players/e/evansja02.html,10,6-4,210,Golden State Warriors,2019
+191,Draymond Green,PF,https://www.basketball-reference.com/players/g/greendr01.html,23,6-6,230,Golden State Warriors,2019
+192,Andre Iguodala,SF,https://www.basketball-reference.com/players/i/iguodan01.html,9,6-6,215,Golden State Warriors,2019
+193,Jonas Jerebko,PF,https://www.basketball-reference.com/players/j/jerebjo01.html,21,6-10,231,Golden State Warriors,2019
+194,Damian Jones,C,https://www.basketball-reference.com/players/j/jonesda03.html,15,6-11,245,Golden State Warriors,2019
+195,Damion Lee,SG,https://www.basketball-reference.com/players/l/leeda03.html,1,6-5,210,Golden State Warriors,2019
+196,Shaun Livingston,PG,https://www.basketball-reference.com/players/l/livinsh01.html,34,6-7,192,Golden State Warriors,2019
+197,Kevon Looney,C,https://www.basketball-reference.com/players/l/looneke01.html,5,6-9,222,Golden State Warriors,2019
+198,Alfonzo McKinnie,SF,https://www.basketball-reference.com/players/m/mckinal01.html,28,6-7,215,Golden State Warriors,2019
+199,Klay Thompson,SG,https://www.basketball-reference.com/players/t/thompkl01.html,11,6-6,215,Golden State Warriors,2019
+200,Carmelo Anthony,PF,https://www.basketball-reference.com/players/a/anthoca01.html,7,6-8,238,Houston Rockets,2019
+201,Clint Capela,C,https://www.basketball-reference.com/players/c/capelca01.html,15,6-10,240,Houston Rockets,2019
+202,Michael Carter-Williams,PG,https://www.basketball-reference.com/players/c/cartemi01.html,1,6-5,190,Houston Rockets,2019
+203,Chris Chiozza,PG,https://www.basketball-reference.com/players/c/chiozch01.html,2,5-11,175,Houston Rockets,2019
+204,Marquese Chriss,PF,https://www.basketball-reference.com/players/c/chrisma01.html,0,6-9,240,Houston Rockets,2019
+205,Gary Clark,PF,https://www.basketball-reference.com/players/c/clarkga01.html,6,6-6,225,Houston Rockets,2019
+206,Vince Edwards,SF,https://www.basketball-reference.com/players/e/edwarvi01.html,12,6-8,225,Houston Rockets,2019
+207,James Ennis,SF,https://www.basketball-reference.com/players/e/ennisja01.html,8,6-6,215,Houston Rockets,2019
+208,Kenneth Faried,C,https://www.basketball-reference.com/players/f/farieke01.html,35,6-8,220,Houston Rockets,2019
+209,Eric Gordon,SG,https://www.basketball-reference.com/players/g/gordoer01.html,10,6-3,215,Houston Rockets,2019
+210,Gerald Green,SG,https://www.basketball-reference.com/players/g/greenge01.html,14,6-6,205,Houston Rockets,2019
+211,James Harden,PG,https://www.basketball-reference.com/players/h/hardeja01.html,13,6-5,220,Houston Rockets,2019
+212,Isaiah Hartenstein,PF,https://www.basketball-reference.com/players/h/harteis01.html,55,7-0,249,Houston Rockets,2019
+213,Nene Hilario,C,https://www.basketball-reference.com/players/h/hilarne01.html,42,6-11,250,Houston Rockets,2019
+214,Danuel House,SF,https://www.basketball-reference.com/players/h/houseda01.html,4,6-6,220,Houston Rockets,2019
+215,Terrence Jones,PF,https://www.basketball-reference.com/players/j/joneste01.html,9,6-9,252,Houston Rockets,2019
+216,Brandon Knight,PG,https://www.basketball-reference.com/players/k/knighbr03.html,2,6-2,182,Houston Rockets,2019
+217,James Nunnally,SF,https://www.basketball-reference.com/players/n/nunnaja01.html,21,6-7,208,Houston Rockets,2019
+218,Chris Paul,PG,https://www.basketball-reference.com/players/p/paulch01.html,3,6-1,175,Houston Rockets,2019
+219,Zhou Qi,PF,https://www.basketball-reference.com/players/q/qizh01.html,9,7-1,210,Houston Rockets,2019
+220,Austin Rivers,SG,https://www.basketball-reference.com/players/r/riverau01.html,25,6-3,200,Houston Rockets,2019
+221,Iman Shumpert,SG,https://www.basketball-reference.com/players/s/shumpim01.html,1,6-5,215,Houston Rockets,2019
+222,P.J. Tucker,PF,https://www.basketball-reference.com/players/t/tuckepj01.html,17,6-5,245,Houston Rockets,2019
+223,Ike Anigbogu,C,https://www.basketball-reference.com/players/a/anigbik01.html,13,6-10,250,Indiana Pacers,2019
+224,Bojan Bogdanovic,SF,https://www.basketball-reference.com/players/b/bogdabo02.html,44,6-8,226,Indiana Pacers,2019
+225,Darren Collison,PG,https://www.basketball-reference.com/players/c/collida01.html,2,6-0,175,Indiana Pacers,2019
+226,Tyreke Evans,SG,https://www.basketball-reference.com/players/e/evansty01.html,12,6-6,220,Indiana Pacers,2019
+227,Aaron Holiday,PG,https://www.basketball-reference.com/players/h/holidaa01.html,3,6-0,185,Indiana Pacers,2019
+228,Alize Johnson,PF,https://www.basketball-reference.com/players/j/johnsal02.html,24,6-7,212,Indiana Pacers,2019
+229,Cory Joseph,PG,https://www.basketball-reference.com/players/j/josepco01.html,6,6-3,200,Indiana Pacers,2019
+230,T.J. Leaf,PF,https://www.basketball-reference.com/players/l/leaftj01.html,22,6-10,222,Indiana Pacers,2019
+231,Wesley Matthews,SG,https://www.basketball-reference.com/players/m/matthwe02.html,23,6-4,220,Indiana Pacers,2019
+232,Doug McDermott,SF,https://www.basketball-reference.com/players/m/mcderdo01.html,20,6-7,225,Indiana Pacers,2019
+233,Kyle O'Quinn,C,https://www.basketball-reference.com/players/o/oquinky01.html,10,6-9,250,Indiana Pacers,2019
+234,Victor Oladipo,SG,https://www.basketball-reference.com/players/o/oladivi01.html,4,6-4,213,Indiana Pacers,2019
+235,Davon Reed,SG,https://www.basketball-reference.com/players/r/reedda01.html,32,6-5,208,Indiana Pacers,2019
+236,Domantas Sabonis,C,https://www.basketball-reference.com/players/s/sabondo01.html,11,6-11,240,Indiana Pacers,2019
+237,Edmond Sumner,PG,https://www.basketball-reference.com/players/s/sumneed01.html,5,6-4,196,Indiana Pacers,2019
+238,Myles Turner,C,https://www.basketball-reference.com/players/t/turnemy01.html,33,6-11,250,Indiana Pacers,2019
+239,Thaddeus Young,PF,https://www.basketball-reference.com/players/y/youngth01.html,21,6-8,235,Indiana Pacers,2019
+240,Patrick Beverley,PG,https://www.basketball-reference.com/players/b/beverpa01.html,21,6-1,180,Los Angeles Clippers,2019
+241,Avery Bradley,SG,https://www.basketball-reference.com/players/b/bradlav01.html,11,6-3,180,Los Angeles Clippers,2019
+242,Wilson Chandler,SF,https://www.basketball-reference.com/players/c/chandwi01.html,22,6-8,235,Los Angeles Clippers,2019
+243,Angel Delgado,C,https://www.basketball-reference.com/players/d/delgaan01.html,31,6-10,245,Los Angeles Clippers,2019
+244,Danilo Gallinari,SF,https://www.basketball-reference.com/players/g/gallida01.html,8,6-10,233,Los Angeles Clippers,2019
+245,Shai Gilgeous-Alexander,PG,https://www.basketball-reference.com/players/g/gilgesh01.html,2,6-5,180,Los Angeles Clippers,2019
+246,Marcin Gortat,C,https://www.basketball-reference.com/players/g/gortama01.html,13,6-11,240,Los Angeles Clippers,2019
+247,JaMychal Green,PF,https://www.basketball-reference.com/players/g/greenja01.html,4,6-8,227,Los Angeles Clippers,2019
+248,Montrezl Harrell,C,https://www.basketball-reference.com/players/h/harremo01.html,5,6-7,240,Los Angeles Clippers,2019
+249,Tobias Harris,PF,https://www.basketball-reference.com/players/h/harrito02.html,34,6-8,226,Los Angeles Clippers,2019
+250,Boban Marjanovic,C,https://www.basketball-reference.com/players/m/marjabo01.html,51,7-4,290,Los Angeles Clippers,2019
+251,Luc Mbah a Moute,PF,https://www.basketball-reference.com/players/m/mbahalu01.html,12,6-8,230,Los Angeles Clippers,2019
+252,Johnathan Motley,PF,https://www.basketball-reference.com/players/m/motlejo01.html,15,6-8,230,Los Angeles Clippers,2019
+253,Jerome Robinson,SG,https://www.basketball-reference.com/players/r/robinje01.html,10,6-4,190,Los Angeles Clippers,2019
+254,Mike Scott,PF,https://www.basketball-reference.com/players/s/scottmi01.html,30,6-7,237,Los Angeles Clippers,2019
+255,Landry Shamet,SG,https://www.basketball-reference.com/players/s/shamela01.html,20,6-4,190,Los Angeles Clippers,2019
+256,Garrett Temple,SG,https://www.basketball-reference.com/players/t/templga01.html,17,6-5,195,Los Angeles Clippers,2019
+257,Milos Teodosic,PG,https://www.basketball-reference.com/players/t/teodomi01.html,4,6-5,196,Los Angeles Clippers,2019
+258,Sindarius Thornwell,SG,https://www.basketball-reference.com/players/t/thornsi01.html,0,6-5,215,Los Angeles Clippers,2019
+259,Tyrone Wallace,PG,https://www.basketball-reference.com/players/w/wallaty01.html,9,6-5,198,Los Angeles Clippers,2019
+260,Lou Williams,SG,https://www.basketball-reference.com/players/w/willilo02.html,23,6-1,175,Los Angeles Clippers,2019
+261,Ivica Zubac,C,https://www.basketball-reference.com/players/z/zubaciv01.html,40,7-0,240,Los Angeles Clippers,2019
+262,Lonzo Ball,PG,https://www.basketball-reference.com/players/b/balllo01.html,2,6-6,190,Los Angeles Lakers,2019
+263,Michael Beasley,PF,https://www.basketball-reference.com/players/b/beaslmi01.html,11,6-9,235,Los Angeles Lakers,2019
+264,Isaac Bonga,PG,https://www.basketball-reference.com/players/b/bongais01.html,17,6-8,180,Los Angeles Lakers,2019
+265,Reggie Bullock,SG,https://www.basketball-reference.com/players/b/bullore01.html,35,6-6,205,Los Angeles Lakers,2019
+266,Kentavious Caldwell-Pope,SG,https://www.basketball-reference.com/players/c/caldwke01.html,1,6-5,204,Los Angeles Lakers,2019
+267,Alex Caruso,PG,https://www.basketball-reference.com/players/c/carusal01.html,4,6-5,186,Los Angeles Lakers,2019
+268,Tyson Chandler,C,https://www.basketball-reference.com/players/c/chandty01.html,5,7-0,235,Los Angeles Lakers,2019
+269,Josh Hart,SG,https://www.basketball-reference.com/players/h/hartjo01.html,3,6-5,215,Los Angeles Lakers,2019
+270,Andre Ingram,SG,https://www.basketball-reference.com/players/i/ingraan01.html,20,6-3,190,Los Angeles Lakers,2019
+271,Brandon Ingram,SF,https://www.basketball-reference.com/players/i/ingrabr01.html,14,6-7,190,Los Angeles Lakers,2019
+272,LeBron James,SF,https://www.basketball-reference.com/players/j/jamesle01.html,23,6-9,250,Los Angeles Lakers,2019
+273,Jemerrio Jones,SF,https://www.basketball-reference.com/players/j/jonesje01.html,10,6-5,174,Los Angeles Lakers,2019
+274,Kyle Kuzma,PF,https://www.basketball-reference.com/players/k/kuzmaky01.html,0,6-8,221,Los Angeles Lakers,2019
+275,Scott Machado,PG,https://www.basketball-reference.com/players/m/machasc01.html,10,6-1,205,Los Angeles Lakers,2019
+276,JaVale McGee,C,https://www.basketball-reference.com/players/m/mcgeeja01.html,7,7-0,270,Los Angeles Lakers,2019
+277,Mike Muscala,PF,https://www.basketball-reference.com/players/m/muscami01.html,31,6-10,240,Los Angeles Lakers,2019
+278,Sviatoslav Mykhailiuk,SF,https://www.basketball-reference.com/players/m/mykhasv01.html,10,6-7,205,Los Angeles Lakers,2019
+279,Rajon Rondo,PG,https://www.basketball-reference.com/players/r/rondora01.html,9,6-1,180,Los Angeles Lakers,2019
+280,Lance Stephenson,SG,https://www.basketball-reference.com/players/s/stephla01.html,6,6-6,230,Los Angeles Lakers,2019
+281,Moritz Wagner,C,https://www.basketball-reference.com/players/w/wagnemo01.html,15,6-11,245,Los Angeles Lakers,2019
+282,Johnathan Williams,C,https://www.basketball-reference.com/players/w/willijo04.html,19,6-9,228,Los Angeles Lakers,2019
+283,Ivica Zubac,C,https://www.basketball-reference.com/players/z/zubaciv01.html,40,7-0,240,Los Angeles Lakers,2019
+284,Kyle Anderson,SF,https://www.basketball-reference.com/players/a/anderky01.html,1,6-9,230,Memphis Grizzlies,2019
+285,Avery Bradley,SG,https://www.basketball-reference.com/players/b/bradlav01.html,0,6-3,180,Memphis Grizzlies,2019
+286,Dillon Brooks,SF,https://www.basketball-reference.com/players/b/brookdi01.html,24,6-7,225,Memphis Grizzlies,2019
+287,MarShon Brooks,SG,https://www.basketball-reference.com/players/b/brookma01.html,8,6-5,200,Memphis Grizzlies,2019
+288,Bruno Caboclo,PF,https://www.basketball-reference.com/players/c/cabocbr01.html,5,6-9,218,Memphis Grizzlies,2019
+289,Jevon Carter,PG,https://www.basketball-reference.com/players/c/carteje01.html,3,6-1,200,Memphis Grizzlies,2019
+290,Omri Casspi,SF,https://www.basketball-reference.com/players/c/casspom01.html,18,6-9,225,Memphis Grizzlies,2019
+291,Mike Conley,PG,https://www.basketball-reference.com/players/c/conlemi01.html,11,6-1,175,Memphis Grizzlies,2019
+292,Tyler Dorsey,SG,https://www.basketball-reference.com/players/d/dorsety01.html,22,6-5,183,Memphis Grizzlies,2019
+293,Marc Gasol,C,https://www.basketball-reference.com/players/g/gasolma01.html,33,6-11,255,Memphis Grizzlies,2019
+294,JaMychal Green,PF,https://www.basketball-reference.com/players/g/greenja01.html,0,6-8,227,Memphis Grizzlies,2019
+295,Dusty Hannahs,SG,https://www.basketball-reference.com/players/h/hannadu01.html,8,6-3,210,Memphis Grizzlies,2019
+296,Andrew Harrison,PG,https://www.basketball-reference.com/players/h/harrian01.html,5,6-6,213,Memphis Grizzlies,2019
+297,Justin Holiday,SG,https://www.basketball-reference.com/players/h/holidju01.html,7,6-6,180,Memphis Grizzlies,2019
+298,Jaren Jackson,PF,https://www.basketball-reference.com/players/j/jacksja02.html,13,6-11,242,Memphis Grizzlies,2019
+299,Shelvin Mack,PG,https://www.basketball-reference.com/players/m/macksh01.html,6,6-3,203,Memphis Grizzlies,2019
+300,C.J. Miles,SF,https://www.basketball-reference.com/players/m/milescj01.html,6,6-6,220,Memphis Grizzlies,2019
+301,Joakim Noah,C,https://www.basketball-reference.com/players/n/noahjo01.html,55,6-11,230,Memphis Grizzlies,2019
+302,Chandler Parsons,SF,https://www.basketball-reference.com/players/p/parsoch01.html,25,6-9,230,Memphis Grizzlies,2019
+303,Ivan Rabb,PF,https://www.basketball-reference.com/players/r/rabbiv01.html,10,6-10,220,Memphis Grizzlies,2019
+304,Wayne Selden,SG,https://www.basketball-reference.com/players/s/seldewa01.html,7,6-5,230,Memphis Grizzlies,2019
+305,D.J. Stephens,SG,https://www.basketball-reference.com/players/s/stephdj01.html,20,6-5,188,Memphis Grizzlies,2019
+306,Garrett Temple,SG,https://www.basketball-reference.com/players/t/templga01.html,17,6-5,195,Memphis Grizzlies,2019
+307,Jonas Valanciunas,C,https://www.basketball-reference.com/players/v/valanjo01.html,17,6-11,265,Memphis Grizzlies,2019
+308,Julian Washburn,SF,https://www.basketball-reference.com/players/w/washbju01.html,4,6-8,210,Memphis Grizzlies,2019
+309,Yuta Watanabe,SF,https://www.basketball-reference.com/players/w/watanyu01.html,12,6-8,215,Memphis Grizzlies,2019
+310,Delon Wright,PG,https://www.basketball-reference.com/players/w/wrighde01.html,2,6-5,185,Memphis Grizzlies,2019
+311,Tyler Zeller,C,https://www.basketball-reference.com/players/z/zellety01.html,45,7-0,253,Memphis Grizzlies,2019
+312,Bam Adebayo,C,https://www.basketball-reference.com/players/a/adebaba01.html,13,6-9,255,Miami Heat,2019
+313,Ryan Anderson,PF,https://www.basketball-reference.com/players/a/anderry01.html,31,6-9,240,Miami Heat,2019
+314,Goran Dragic,PG,https://www.basketball-reference.com/players/d/dragigo01.html,7,6-3,190,Miami Heat,2019
+315,Wayne Ellington,SG,https://www.basketball-reference.com/players/e/ellinwa01.html,2,6-4,207,Miami Heat,2019
+316,Udonis Haslem,C,https://www.basketball-reference.com/players/h/hasleud01.html,40,6-8,235,Miami Heat,2019
+317,James Johnson,PF,https://www.basketball-reference.com/players/j/johnsja01.html,16,6-7,240,Miami Heat,2019
+318,Tyler Johnson,PG,https://www.basketball-reference.com/players/j/johnsty01.html,8,6-3,186,Miami Heat,2019
+319,Derrick Jones,SF,https://www.basketball-reference.com/players/j/jonesde02.html,5,6-6,210,Miami Heat,2019
+320,Yante Maten,PF,https://www.basketball-reference.com/players/m/matenya01.html,00,6-8,240,Miami Heat,2019
+321,Rodney McGruder,SG,https://www.basketball-reference.com/players/m/mcgruro01.html,17,6-4,205,Miami Heat,2019
+322,Kelly Olynyk,PF,https://www.basketball-reference.com/players/o/olynyke01.html,9,6-11,240,Miami Heat,2019
+323,Josh Richardson,SG,https://www.basketball-reference.com/players/r/richajo01.html,0,6-5,200,Miami Heat,2019
+324,Duncan Robinson,PF,https://www.basketball-reference.com/players/r/robindu01.html,55,6-7,215,Miami Heat,2019
+325,Emanuel Terry,PF,https://www.basketball-reference.com/players/t/terryem01.html,12,6-9,220,Miami Heat,2019
+326,Dwyane Wade,SG,https://www.basketball-reference.com/players/w/wadedw01.html,3,6-4,220,Miami Heat,2019
+327,Dion Waiters,SG,https://www.basketball-reference.com/players/w/waitedi01.html,11,6-3,215,Miami Heat,2019
+328,Hassan Whiteside,C,https://www.basketball-reference.com/players/w/whiteha01.html,21,7-0,265,Miami Heat,2019
+329,Justise Winslow,SF,https://www.basketball-reference.com/players/w/winslju01.html,20,6-6,222,Miami Heat,2019
+330,Giannis Antetokounmpo,PF,https://www.basketball-reference.com/players/a/antetgi01.html,34,6-11,242,Milwaukee Bucks,2019
+331,Eric Bledsoe,PG,https://www.basketball-reference.com/players/b/bledser01.html,6,6-1,214,Milwaukee Bucks,2019
+332,Malcolm Brogdon,SG,https://www.basketball-reference.com/players/b/brogdma01.html,13,6-5,229,Milwaukee Bucks,2019
+333,Sterling Brown,SG,https://www.basketball-reference.com/players/b/brownst02.html,23,6-5,219,Milwaukee Bucks,2019
+334,Isaiah Canaan,PG,https://www.basketball-reference.com/players/c/canaais01.html,7,6-0,201,Milwaukee Bucks,2019
+335,Bonzie Colson,SF,https://www.basketball-reference.com/players/c/colsobo01.html,50,6-6,224,Milwaukee Bucks,2019
+336,Pat Connaughton,SG,https://www.basketball-reference.com/players/c/connapa01.html,24,6-5,209,Milwaukee Bucks,2019
+337,Matthew Dellavedova,PG,https://www.basketball-reference.com/players/d/dellama01.html,8,6-3,200,Milwaukee Bucks,2019
+338,Donte DiVincenzo,SG,https://www.basketball-reference.com/players/d/divindo01.html,9,6-4,203,Milwaukee Bucks,2019
+339,Trevon Duval,PG,https://www.basketball-reference.com/players/d/duvaltr01.html,0,6-2,189,Milwaukee Bucks,2019
+340,Tim Frazier,PG,https://www.basketball-reference.com/players/f/fraziti01.html,12,6-0,170,Milwaukee Bucks,2019
+341,Pau Gasol,C,https://www.basketball-reference.com/players/g/gasolpa01.html,17,7-0,250,Milwaukee Bucks,2019
+342,John Henson,C,https://www.basketball-reference.com/players/h/hensojo01.html,31,6-9,219,Milwaukee Bucks,2019
+343,George Hill,PG,https://www.basketball-reference.com/players/h/hillge01.html,3,6-3,188,Milwaukee Bucks,2019
+344,Ersan Ilyasova,PF,https://www.basketball-reference.com/players/i/ilyaser01.html,77,6-9,235,Milwaukee Bucks,2019
+345,Brook Lopez,C,https://www.basketball-reference.com/players/l/lopezbr01.html,11,7-0,282,Milwaukee Bucks,2019
+346,Thon Maker,C,https://www.basketball-reference.com/players/m/makerth01.html,7,7-0,221,Milwaukee Bucks,2019
+347,Khris Middleton,SF,https://www.basketball-reference.com/players/m/middlkh01.html,22,6-7,222,Milwaukee Bucks,2019
+348,Nikola Mirotic,PF,https://www.basketball-reference.com/players/m/mirotni01.html,41,6-10,250,Milwaukee Bucks,2019
+349,Jaylen Morris,SG,https://www.basketball-reference.com/players/m/morrija01.html,30,6-5,185,Milwaukee Bucks,2019
+350,Jason Smith,PF,https://www.basketball-reference.com/players/s/smithja02.html,20,7-0,240,Milwaukee Bucks,2019
+351,Tony Snell,SF,https://www.basketball-reference.com/players/s/snellto01.html,21,6-6,213,Milwaukee Bucks,2019
+352,D.J. Wilson,PF,https://www.basketball-reference.com/players/w/wilsodj01.html,5,6-10,231,Milwaukee Bucks,2019
+353,Christian Wood,PF,https://www.basketball-reference.com/players/w/woodch01.html,35,6-10,214,Milwaukee Bucks,2019
+354,Keita Bates-Diop,SF,https://www.basketball-reference.com/players/b/bateske01.html,31,6-8,229,Minnesota Timberwolves,2019
+355,Jerryd Bayless,PG,https://www.basketball-reference.com/players/b/bayleje01.html,8,6-3,200,Minnesota Timberwolves,2019
+356,Jimmy Butler,SG,https://www.basketball-reference.com/players/b/butleji01.html,23,6-7,230,Minnesota Timberwolves,2019
+357,Isaiah Canaan,PG,https://www.basketball-reference.com/players/c/canaais01.html,7,6-0,201,Minnesota Timberwolves,2019
+358,Robert Covington,SF,https://www.basketball-reference.com/players/c/covinro01.html,33,6-7,209,Minnesota Timberwolves,2019
+359,Mitch Creek,SF,https://www.basketball-reference.com/players/c/creekmi01.html,55,6-5,216,Minnesota Timberwolves,2019
+360,Luol Deng,SF,https://www.basketball-reference.com/players/d/denglu01.html,9,6-9,237,Minnesota Timberwolves,2019
+361,Gorgui Dieng,C,https://www.basketball-reference.com/players/d/dienggo01.html,5,6-10,252,Minnesota Timberwolves,2019
+362,Taj Gibson,PF,https://www.basketball-reference.com/players/g/gibsota01.html,67,6-9,232,Minnesota Timberwolves,2019
+363,Tyus Jones,PG,https://www.basketball-reference.com/players/j/jonesty01.html,1,6-0,196,Minnesota Timberwolves,2019
+364,James Nunnally,SF,https://www.basketball-reference.com/players/n/nunnaja01.html,7,6-7,208,Minnesota Timberwolves,2019
+365,Josh Okogie,SG,https://www.basketball-reference.com/players/o/okogijo01.html,20,6-4,213,Minnesota Timberwolves,2019
+366,Cameron Reynolds,SG,https://www.basketball-reference.com/players/r/reynoca01.html,13,6-7,225,Minnesota Timberwolves,2019
+367,Derrick Rose,PG,https://www.basketball-reference.com/players/r/rosede01.html,25,6-2,200,Minnesota Timberwolves,2019
+368,Dario Saric,PF,https://www.basketball-reference.com/players/s/saricda01.html,36,6-10,225,Minnesota Timberwolves,2019
+369,Jeff Teague,PG,https://www.basketball-reference.com/players/t/teaguje01.html,0,6-3,195,Minnesota Timberwolves,2019
+370,Jared Terrell,SG,https://www.basketball-reference.com/players/t/terreja01.html,3,6-3,227,Minnesota Timberwolves,2019
+371,Anthony Tolliver,PF,https://www.basketball-reference.com/players/t/tollian01.html,43,6-8,240,Minnesota Timberwolves,2019
+372,Karl-Anthony Towns,C,https://www.basketball-reference.com/players/t/townska01.html,32,6-11,248,Minnesota Timberwolves,2019
+373,Andrew Wiggins,SF,https://www.basketball-reference.com/players/w/wiggian01.html,22,6-7,197,Minnesota Timberwolves,2019
+374,C.J. Williams,SG,https://www.basketball-reference.com/players/w/willicj01.html,12,6-5,226,Minnesota Timberwolves,2019
+375,Dairis Bertans,SG,https://www.basketball-reference.com/players/b/bertada02.html,9,6-4,200,New Orleans Pelicans,2019
+376,Ian Clark,SG,https://www.basketball-reference.com/players/c/clarkia01.html,2,6-3,175,New Orleans Pelicans,2019
+377,Anthony Davis,C,https://www.basketball-reference.com/players/d/davisan02.html,23,6-10,253,New Orleans Pelicans,2019
+378,Cheick Diallo,PF,https://www.basketball-reference.com/players/d/diallch01.html,13,6-8,219,New Orleans Pelicans,2019
+379,Tim Frazier,PG,https://www.basketball-reference.com/players/f/fraziti01.html,10,6-0,170,New Orleans Pelicans,2019
+380,Andrew Harrison,PG,https://www.basketball-reference.com/players/h/harrian01.html,1,6-6,213,New Orleans Pelicans,2019
+381,Solomon Hill,SF,https://www.basketball-reference.com/players/h/hillso01.html,44,6-6,226,New Orleans Pelicans,2019
+382,Jrue Holiday,SG,https://www.basketball-reference.com/players/h/holidjr01.html,11,6-3,205,New Orleans Pelicans,2019
+383,Frank Jackson,PG,https://www.basketball-reference.com/players/j/jacksfr01.html,15,6-3,205,New Orleans Pelicans,2019
+384,Stanley Johnson,SF,https://www.basketball-reference.com/players/j/johnsst04.html,3,6-6,242,New Orleans Pelicans,2019
+385,Wesley Johnson,SF,https://www.basketball-reference.com/players/j/johnswe01.html,33,6-7,215,New Orleans Pelicans,2019
+386,Darius Miller,SF,https://www.basketball-reference.com/players/m/milleda01.html,21,6-6,225,New Orleans Pelicans,2019
+387,Nikola Mirotic,PF,https://www.basketball-reference.com/players/m/mirotni01.html,3,6-10,250,New Orleans Pelicans,2019
+388,E'Twaun Moore,SG,https://www.basketball-reference.com/players/m/mooreet01.html,55,6-3,191,New Orleans Pelicans,2019
+389,Jahlil Okafor,C,https://www.basketball-reference.com/players/o/okafoja01.html,8,6-10,270,New Orleans Pelicans,2019
+390,Elfrid Payton,PG,https://www.basketball-reference.com/players/p/paytoel01.html,4,6-3,195,New Orleans Pelicans,2019
+391,Julius Randle,PF,https://www.basketball-reference.com/players/r/randlju01.html,30,6-8,250,New Orleans Pelicans,2019
+392,Jason Smith,C,https://www.basketball-reference.com/players/s/smithja02.html,14,7-0,240,New Orleans Pelicans,2019
+393,Kenrich Williams,SF,https://www.basketball-reference.com/players/w/willike04.html,34,6-6,210,New Orleans Pelicans,2019
+394,Christian Wood,PF,https://www.basketball-reference.com/players/w/woodch01.html,35,6-10,214,New Orleans Pelicans,2019
+395,Kadeem Allen,SG,https://www.basketball-reference.com/players/a/allenka01.html,0,6-1,200,New York Knicks,2019
+396,Ron Baker,SG,https://www.basketball-reference.com/players/b/bakerro01.html,31,6-4,220,New York Knicks,2019
+397,Trey Burke,PG,https://www.basketball-reference.com/players/b/burketr01.html,23,6-0,185,New York Knicks,2019
+398,Damyean Dotson,SG,https://www.basketball-reference.com/players/d/dotsoda01.html,21,6-5,210,New York Knicks,2019
+399,Henry Ellenson,PF,https://www.basketball-reference.com/players/e/ellenhe01.html,13,6-10,240,New York Knicks,2019
+400,Billy Garrett,SG,https://www.basketball-reference.com/players/g/garrebi01.html,3,6-6,213,New York Knicks,2019
+401,Tim Hardaway,SG,https://www.basketball-reference.com/players/h/hardati02.html,3,6-5,205,New York Knicks,2019
+402,Mario Hezonja,SF,https://www.basketball-reference.com/players/h/hezonma01.html,8,6-8,220,New York Knicks,2019
+403,Isaiah Hicks,PF,https://www.basketball-reference.com/players/h/hicksis01.html,4,6-9,230,New York Knicks,2019
+404,John Jenkins,SG,https://www.basketball-reference.com/players/j/jenkijo01.html,30,6-4,215,New York Knicks,2019
+405,DeAndre Jordan,C,https://www.basketball-reference.com/players/j/jordade01.html,6,6-11,265,New York Knicks,2019
+406,Enes Kanter,C,https://www.basketball-reference.com/players/k/kanteen01.html,00,6-10,250,New York Knicks,2019
+407,Kevin Knox,PF,https://www.basketball-reference.com/players/k/knoxke01.html,20,6-7,215,New York Knicks,2019
+408,Luke Kornet,PF,https://www.basketball-reference.com/players/k/kornelu01.html,2,7-2,250,New York Knicks,2019
+409,Courtney Lee,SG,https://www.basketball-reference.com/players/l/leeco01.html,5,6-5,215,New York Knicks,2019
+410,Wesley Matthews,SG,https://www.basketball-reference.com/players/m/matthwe02.html,23,6-4,220,New York Knicks,2019
+411,Emmanuel Mudiay,PG,https://www.basketball-reference.com/players/m/mudiaem01.html,1,6-3,200,New York Knicks,2019
+412,Frank Ntilikina,PG,https://www.basketball-reference.com/players/n/ntilila01.html,11,6-4,200,New York Knicks,2019
+413,Mitchell Robinson,C,https://www.basketball-reference.com/players/r/robinmi01.html,26,7-0,240,New York Knicks,2019
+414,Dennis Smith,PG,https://www.basketball-reference.com/players/s/smithde03.html,5,6-2,205,New York Knicks,2019
+415,Lance Thomas,PF,https://www.basketball-reference.com/players/t/thomala01.html,42,6-8,240,New York Knicks,2019
+416,Allonzo Trier,SG,https://www.basketball-reference.com/players/t/trieral01.html,14,6-4,200,New York Knicks,2019
+417,Noah Vonleh,PF,https://www.basketball-reference.com/players/v/vonleno01.html,32,6-10,257,New York Knicks,2019
+418,Alex Abrines,SG,https://www.basketball-reference.com/players/a/abrinal01.html,8,6-6,200,Oklahoma City Thunder,2019
+419,Steven Adams,C,https://www.basketball-reference.com/players/a/adamsst01.html,12,6-11,265,Oklahoma City Thunder,2019
+420,Deonte Burton,SG,https://www.basketball-reference.com/players/b/burtode02.html,30,6-4,240,Oklahoma City Thunder,2019
+421,Tyler Davis,C,https://www.basketball-reference.com/players/d/davisty01.html,34,6-10,266,Oklahoma City Thunder,2019
+422,Hamidou Diallo,SG,https://www.basketball-reference.com/players/d/diallha01.html,6,6-5,202,Oklahoma City Thunder,2019
+423,Jawun Evans,PG,https://www.basketball-reference.com/players/e/evansja01.html,8,6-0,185,Oklahoma City Thunder,2019
+424,Raymond Felton,PG,https://www.basketball-reference.com/players/f/feltora01.html,2,6-1,205,Oklahoma City Thunder,2019
+425,Terrance Ferguson,SG,https://www.basketball-reference.com/players/f/fergute01.html,23,6-6,190,Oklahoma City Thunder,2019
+426,Paul George,SF,https://www.basketball-reference.com/players/g/georgpa01.html,13,6-8,220,Oklahoma City Thunder,2019
+427,Jerami Grant,PF,https://www.basketball-reference.com/players/g/grantje01.html,9,6-8,210,Oklahoma City Thunder,2019
+428,Donte Grantham,SF,https://www.basketball-reference.com/players/g/grantdo01.html,15,6-8,215,Oklahoma City Thunder,2019
+429,Timothe Luwawu-Cabarrot,SF,https://www.basketball-reference.com/players/l/luwawti01.html,7,6-7,220,Oklahoma City Thunder,2019
+430,Markieff Morris,PF,https://www.basketball-reference.com/players/m/morrima02.html,5,6-8,245,Oklahoma City Thunder,2019
+431,Abdel Nader,SF,https://www.basketball-reference.com/players/n/naderab01.html,11,6-5,225,Oklahoma City Thunder,2019
+432,Nerlens Noel,C,https://www.basketball-reference.com/players/n/noelne01.html,3,6-10,220,Oklahoma City Thunder,2019
+433,Patrick Patterson,PF,https://www.basketball-reference.com/players/p/pattepa01.html,54,6-8,235,Oklahoma City Thunder,2019
+434,Dennis Schroder,PG,https://www.basketball-reference.com/players/s/schrode01.html,17,6-1,172,Oklahoma City Thunder,2019
+435,Russell Westbrook,PG,https://www.basketball-reference.com/players/w/westbru01.html,0,6-3,200,Oklahoma City Thunder,2019
+436,D.J. Augustin,PG,https://www.basketball-reference.com/players/a/augusdj01.html,14,5-11,183,Orlando Magic,2019
+437,Mohamed Bamba,C,https://www.basketball-reference.com/players/b/bambamo01.html,5,7-0,231,Orlando Magic,2019
+438,Khem Birch,C,https://www.basketball-reference.com/players/b/birchkh01.html,24,6-9,233,Orlando Magic,2019
+439,Isaiah Briscoe,PG,https://www.basketball-reference.com/players/b/briscis01.html,13,6-3,215,Orlando Magic,2019
+440,Michael Carter-Williams,PG,https://www.basketball-reference.com/players/c/cartemi01.html,7,6-5,190,Orlando Magic,2019
+441,Troy Caupain,PG,https://www.basketball-reference.com/players/c/caupatr01.html,3,6-4,210,Orlando Magic,2019
+442,Evan Fournier,SG,https://www.basketball-reference.com/players/f/fournev01.html,10,6-7,205,Orlando Magic,2019
+443,Melvin Frazier,SG,https://www.basketball-reference.com/players/f/frazime01.html,35,6-5,215,Orlando Magic,2019
+444,Aaron Gordon,PF,https://www.basketball-reference.com/players/g/gordoaa01.html,00,6-8,235,Orlando Magic,2019
+445,Jerian Grant,PG,https://www.basketball-reference.com/players/g/grantje02.html,22,6-4,205,Orlando Magic,2019
+446,Jonathan Isaac,PF,https://www.basketball-reference.com/players/i/isaacjo01.html,1,6-11,230,Orlando Magic,2019
+447,Wesley Iwundu,SF,https://www.basketball-reference.com/players/i/iwundwe01.html,25,6-6,195,Orlando Magic,2019
+448,Amile Jefferson,PF,https://www.basketball-reference.com/players/j/jeffeam01.html,11,6-9,222,Orlando Magic,2019
+449,Jarell Martin,PF,https://www.basketball-reference.com/players/m/martija01.html,2,6-10,239,Orlando Magic,2019
+450,Terrence Ross,SG,https://www.basketball-reference.com/players/r/rosste01.html,31,6-6,206,Orlando Magic,2019
+451,Jonathon Simmons,SG,https://www.basketball-reference.com/players/s/simmojo02.html,17,6-6,195,Orlando Magic,2019
+452,Nikola Vucevic,C,https://www.basketball-reference.com/players/v/vucevni01.html,9,6-11,260,Orlando Magic,2019
+453,Jonah Bolden,PF,https://www.basketball-reference.com/players/b/boldejo01.html,43,6-8,220,Philadelphia 76ers,2019
+454,Corey Brewer,SF,https://www.basketball-reference.com/players/b/breweco01.html,00,6-9,186,Philadelphia 76ers,2019
+455,Jimmy Butler,SF,https://www.basketball-reference.com/players/b/butleji01.html,23,6-7,230,Philadelphia 76ers,2019
+456,Wilson Chandler,PF,https://www.basketball-reference.com/players/c/chandwi01.html,22,6-8,235,Philadelphia 76ers,2019
+457,Robert Covington,SF,https://www.basketball-reference.com/players/c/covinro01.html,33,6-7,209,Philadelphia 76ers,2019
+458,Joel Embiid,C,https://www.basketball-reference.com/players/e/embiijo01.html,21,7-0,280,Philadelphia 76ers,2019
+459,James Ennis,SF,https://www.basketball-reference.com/players/e/ennisja01.html,11,6-6,215,Philadelphia 76ers,2019
+460,Markelle Fultz,SG,https://www.basketball-reference.com/players/f/fultzma01.html,20,6-3,209,Philadelphia 76ers,2019
+461,Tobias Harris,PF,https://www.basketball-reference.com/players/h/harrito02.html,33,6-8,226,Philadelphia 76ers,2019
+462,Haywood Highsmith,SF,https://www.basketball-reference.com/players/h/highsha01.html,7,6-7,220,Philadelphia 76ers,2019
+463,Demetrius Jackson,PG,https://www.basketball-reference.com/players/j/jacksde01.html,11,6-1,201,Philadelphia 76ers,2019
+464,Amir Johnson,C,https://www.basketball-reference.com/players/j/johnsam01.html,5,6-9,240,Philadelphia 76ers,2019
+465,Furkan Korkmaz,SG,https://www.basketball-reference.com/players/k/korkmfu01.html,30,6-7,202,Philadelphia 76ers,2019
+466,Boban Marjanovic,C,https://www.basketball-reference.com/players/m/marjabo01.html,51,7-4,290,Philadelphia 76ers,2019
+467,T.J. McConnell,PG,https://www.basketball-reference.com/players/m/mccontj01.html,12,6-1,190,Philadelphia 76ers,2019
+468,Shake Milton,SG,https://www.basketball-reference.com/players/m/miltosh01.html,18,6-5,205,Philadelphia 76ers,2019
+469,Greg Monroe,C,https://www.basketball-reference.com/players/m/monrogr01.html,55,6-11,265,Philadelphia 76ers,2019
+470,Mike Muscala,PF,https://www.basketball-reference.com/players/m/muscami01.html,31,6-10,240,Philadelphia 76ers,2019
+471,Justin Patton,C,https://www.basketball-reference.com/players/p/pattoju01.html,0,6-11,241,Philadelphia 76ers,2019
+472,J.J. Redick,SG,https://www.basketball-reference.com/players/r/redicjj01.html,17,6-3,200,Philadelphia 76ers,2019
+473,Dario Saric,PF,https://www.basketball-reference.com/players/s/saricda01.html,9,6-10,225,Philadelphia 76ers,2019
+474,Mike Scott,PF,https://www.basketball-reference.com/players/s/scottmi01.html,1,6-7,237,Philadelphia 76ers,2019
+475,Landry Shamet,SG,https://www.basketball-reference.com/players/s/shamela01.html,1-23,6-4,190,Philadelphia 76ers,2019
+476,Ben Simmons,PG,https://www.basketball-reference.com/players/s/simmobe01.html,25,6-10,240,Philadelphia 76ers,2019
+477,Jonathon Simmons,SF,https://www.basketball-reference.com/players/s/simmojo02.html,14,6-6,195,Philadelphia 76ers,2019
+478,Zhaire Smith,SG,https://www.basketball-reference.com/players/s/smithzh01.html,8,6-3,205,Philadelphia 76ers,2019
+479,Quincy Acy,PF,https://www.basketball-reference.com/players/a/acyqu01.html,4,6-7,240,Phoenix Suns,2019
+480,Ryan Anderson,PF,https://www.basketball-reference.com/players/a/anderry01.html,15,6-9,240,Phoenix Suns,2019
+481,Trevor Ariza,SF,https://www.basketball-reference.com/players/a/arizatr01.html,3,6-8,215,Phoenix Suns,2019
+482,Deandre Ayton,C,https://www.basketball-reference.com/players/a/aytonde01.html,22,6-11,250,Phoenix Suns,2019
+483,Dragan Bender,PF,https://www.basketball-reference.com/players/b/bendedr01.html,35,7-0,225,Phoenix Suns,2019
+484,Devin Booker,SG,https://www.basketball-reference.com/players/b/bookede01.html,1,6-5,206,Phoenix Suns,2019
+485,Mikal Bridges,SF,https://www.basketball-reference.com/players/b/bridgmi01.html,25,6-6,209,Phoenix Suns,2019
+486,Isaiah Canaan,PG,https://www.basketball-reference.com/players/c/canaais01.html,0,6-0,201,Phoenix Suns,2019
+487,Tyson Chandler,C,https://www.basketball-reference.com/players/c/chandty01.html,4,7-0,235,Phoenix Suns,2019
+488,Jamal Crawford,SG,https://www.basketball-reference.com/players/c/crawfja01.html,11,6-5,185,Phoenix Suns,2019
+489,Troy Daniels,SG,https://www.basketball-reference.com/players/d/danietr01.html,30,6-4,200,Phoenix Suns,2019
+490,Jawun Evans,PG,https://www.basketball-reference.com/players/e/evansja01.html,0,6-0,185,Phoenix Suns,2019
+491,Jimmer Fredette,SG,https://www.basketball-reference.com/players/f/fredeji01.html,32,6-2,195,Phoenix Suns,2019
+492,Richaun Holmes,C,https://www.basketball-reference.com/players/h/holmeri01.html,21,6-10,235,Phoenix Suns,2019
+493,Josh Jackson,SG,https://www.basketball-reference.com/players/j/jacksjo02.html,20,6-8,207,Phoenix Suns,2019
+494,Tyler Johnson,PG,https://www.basketball-reference.com/players/j/johnsty01.html,16,6-3,186,Phoenix Suns,2019
+495,George King,SF,https://www.basketball-reference.com/players/k/kingge03.html,8,6-6,225,Phoenix Suns,2019
+496,De'Anthony Melton,PG,https://www.basketball-reference.com/players/m/meltode01.html,14,6-2,200,Phoenix Suns,2019
+497,Eric Moreland,PF,https://www.basketball-reference.com/players/m/moreler01.html,23,6-10,238,Phoenix Suns,2019
+498,Elie Okobo,PG,https://www.basketball-reference.com/players/o/okoboel01.html,2,6-3,190,Phoenix Suns,2019
+499,Kelly Oubre,SF,https://www.basketball-reference.com/players/o/oubreke01.html,3,6-7,203,Phoenix Suns,2019
+500,Ray Spalding,PF,https://www.basketball-reference.com/players/s/spaldra01.html,26,6-10,215,Phoenix Suns,2019
+501,Emanuel Terry,PF,https://www.basketball-reference.com/players/t/terryem01.html,10,6-9,220,Phoenix Suns,2019
+502,T.J. Warren,SF,https://www.basketball-reference.com/players/w/warretj01.html,12,6-8,220,Phoenix Suns,2019
+503,Al-Farouq Aminu,PF,https://www.basketball-reference.com/players/a/aminual01.html,8,6-8,220,Portland Trail Blazers,2019
+504,Wade Baldwin,PG,https://www.basketball-reference.com/players/b/baldwwa01.html,2,6-4,200,Portland Trail Blazers,2019
+505,Zach Collins,C,https://www.basketball-reference.com/players/c/colliza01.html,33,6-11,250,Portland Trail Blazers,2019
+506,Seth Curry,SG,https://www.basketball-reference.com/players/c/curryse01.html,31,6-2,185,Portland Trail Blazers,2019
+507,Maurice Harkless,SF,https://www.basketball-reference.com/players/h/harklma01.html,4,6-7,220,Portland Trail Blazers,2019
+508,Rodney Hood,SG,https://www.basketball-reference.com/players/h/hoodro01.html,5,6-8,208,Portland Trail Blazers,2019
+509,Enes Kanter,C,https://www.basketball-reference.com/players/k/kanteen01.html,00,6-10,250,Portland Trail Blazers,2019
+510,Skal Labissiere,PF,https://www.basketball-reference.com/players/l/labissk01.html,17,6-10,235,Portland Trail Blazers,2019
+511,Jake Layman,SF,https://www.basketball-reference.com/players/l/laymaja01.html,10,6-8,209,Portland Trail Blazers,2019
+512,Meyers Leonard,C,https://www.basketball-reference.com/players/l/leoname01.html,11,7-0,260,Portland Trail Blazers,2019
+513,Damian Lillard,PG,https://www.basketball-reference.com/players/l/lillada01.html,0,6-2,195,Portland Trail Blazers,2019
+514,CJ McCollum,SG,https://www.basketball-reference.com/players/m/mccolcj01.html,3,6-3,190,Portland Trail Blazers,2019
+515,Jusuf Nurkic,C,https://www.basketball-reference.com/players/n/nurkiju01.html,27,7-0,290,Portland Trail Blazers,2019
+516,Anfernee Simons,SG,https://www.basketball-reference.com/players/s/simonan01.html,24,6-3,181,Portland Trail Blazers,2019
+517,Nik Stauskas,SG,https://www.basketball-reference.com/players/s/stausni01.html,6,6-6,205,Portland Trail Blazers,2019
+518,Caleb Swanigan,PF,https://www.basketball-reference.com/players/s/swanica01.html,50,6-9,260,Portland Trail Blazers,2019
+519,Gary Trent,SG,https://www.basketball-reference.com/players/t/trentga02.html,9,6-5,209,Portland Trail Blazers,2019
+520,Evan Turner,PG,https://www.basketball-reference.com/players/t/turneev01.html,1,6-6,220,Portland Trail Blazers,2019
+521,Marvin Bagley,PF,https://www.basketball-reference.com/players/b/baglema01.html,35,6-11,235,Sacramento Kings,2019
+522,Harrison Barnes,SF,https://www.basketball-reference.com/players/b/barneha02.html,40,6-8,225,Sacramento Kings,2019
+523,Nemanja Bjelica,PF,https://www.basketball-reference.com/players/b/bjeline01.html,88,6-10,234,Sacramento Kings,2019
+524,Bogdan Bogdanovic,SG,https://www.basketball-reference.com/players/b/bogdabo01.html,8,6-6,220,Sacramento Kings,2019
+525,Corey Brewer,SF,https://www.basketball-reference.com/players/b/breweco01.html,33,6-9,186,Sacramento Kings,2019
+526,Alec Burks,SG,https://www.basketball-reference.com/players/b/burksal01.html,13,6-6,214,Sacramento Kings,2019
+527,Willie Cauley-Stein,C,https://www.basketball-reference.com/players/c/caulewi01.html,00,7-0,240,Sacramento Kings,2019
+528,Yogi Ferrell,PG,https://www.basketball-reference.com/players/f/ferreyo01.html,3,6-0,178,Sacramento Kings,2019
+529,De'Aaron Fox,PG,https://www.basketball-reference.com/players/f/foxde01.html,5,6-3,185,Sacramento Kings,2019
+530,Harry Giles,PF,https://www.basketball-reference.com/players/g/gilesha01.html,20,6-11,240,Sacramento Kings,2019
+531,Buddy Hield,SG,https://www.basketball-reference.com/players/h/hieldbu01.html,24,6-4,220,Sacramento Kings,2019
+532,Justin Jackson,SF,https://www.basketball-reference.com/players/j/jacksju01.html,25,6-7,220,Sacramento Kings,2019
+533,B.J. Johnson,SF,https://www.basketball-reference.com/players/j/johnsbj01.html,9,6-7,200,Sacramento Kings,2019
+534,Kosta Koufos,C,https://www.basketball-reference.com/players/k/koufoko01.html,41,7-0,245,Sacramento Kings,2019
+535,Skal Labissiere,PF,https://www.basketball-reference.com/players/l/labissk01.html,7,6-10,235,Sacramento Kings,2019
+536,Frank Mason,PG,https://www.basketball-reference.com/players/m/masonfr01.html,10,5-11,190,Sacramento Kings,2019
+537,Ben McLemore,SG,https://www.basketball-reference.com/players/m/mclembe01.html,23,6-3,195,Sacramento Kings,2019
+538,Iman Shumpert,SG,https://www.basketball-reference.com/players/s/shumpim01.html,9,6-5,215,Sacramento Kings,2019
+539,Caleb Swanigan,PF,https://www.basketball-reference.com/players/s/swanica01.html,50,6-9,260,Sacramento Kings,2019
+540,Troy Williams,SF,https://www.basketball-reference.com/players/w/willitr02.html,19,6-7,218,Sacramento Kings,2019
+541,LaMarcus Aldridge,C,https://www.basketball-reference.com/players/a/aldrila01.html,12,6-11,250,San Antonio Spurs,2019
+542,Marco Belinelli,SG,https://www.basketball-reference.com/players/b/belinma01.html,18,6-5,220,San Antonio Spurs,2019
+543,Davis Bertans,PF,https://www.basketball-reference.com/players/b/bertada01.html,42,6-10,225,San Antonio Spurs,2019
+544,Dante Cunningham,PF,https://www.basketball-reference.com/players/c/cunnida01.html,33,6-8,230,San Antonio Spurs,2019
+545,DeMar DeRozan,SG,https://www.basketball-reference.com/players/d/derozde01.html,10,6-6,220,San Antonio Spurs,2019
+546,Drew Eubanks,PF,https://www.basketball-reference.com/players/e/eubandr01.html,14,6-9,245,San Antonio Spurs,2019
+547,Bryn Forbes,SG,https://www.basketball-reference.com/players/f/forbebr01.html,11,6-2,205,San Antonio Spurs,2019
+548,Pau Gasol,C,https://www.basketball-reference.com/players/g/gasolpa01.html,16,7-0,250,San Antonio Spurs,2019
+549,Rudy Gay,PF,https://www.basketball-reference.com/players/g/gayru01.html,22,6-8,250,San Antonio Spurs,2019
+550,Chimezie Metu,PF,https://www.basketball-reference.com/players/m/metuch01.html,7,6-9,225,San Antonio Spurs,2019
+551,Patty Mills,PG,https://www.basketball-reference.com/players/m/millspa02.html,8,6-1,180,San Antonio Spurs,2019
+552,Donatas Motiejunas,PF,https://www.basketball-reference.com/players/m/motiedo01.html,28,7-0,222,San Antonio Spurs,2019
+553,Jakob Poeltl,C,https://www.basketball-reference.com/players/p/poeltja01.html,25,7-1,245,San Antonio Spurs,2019
+554,Quincy Pondexter,SF,https://www.basketball-reference.com/players/p/pondequ01.html,3,6-7,230,San Antonio Spurs,2019
+555,Lonnie Walker,SG,https://www.basketball-reference.com/players/w/walkelo01.html,1,6-5,204,San Antonio Spurs,2019
+556,Derrick White,PG,https://www.basketball-reference.com/players/w/whitede01.html,4,6-4,190,San Antonio Spurs,2019
+557,OG Anunoby,SF,https://www.basketball-reference.com/players/a/anunoog01.html,3,6-7,232,Toronto Raptors,2019
+558,Chris Boucher,PF,https://www.basketball-reference.com/players/b/bouchch01.html,25,6-9,200,Toronto Raptors,2019
+559,Lorenzo Brown,PG,https://www.basketball-reference.com/players/b/brownlo01.html,4,6-5,189,Toronto Raptors,2019
+560,Marc Gasol,C,https://www.basketball-reference.com/players/g/gasolma01.html,33,6-11,255,Toronto Raptors,2019
+561,Danny Green,SG,https://www.basketball-reference.com/players/g/greenda02.html,14,6-6,215,Toronto Raptors,2019
+562,Serge Ibaka,C,https://www.basketball-reference.com/players/i/ibakase01.html,9,7-0,235,Toronto Raptors,2019
+563,Kawhi Leonard,SF,https://www.basketball-reference.com/players/l/leonaka01.html,2,6-7,225,Toronto Raptors,2019
+564,Jeremy Lin,PG,https://www.basketball-reference.com/players/l/linje01.html,17,6-3,200,Toronto Raptors,2019
+565,Kyle Lowry,PG,https://www.basketball-reference.com/players/l/lowryky01.html,7,6-0,196,Toronto Raptors,2019
+566,Jordan Loyd,PG,https://www.basketball-reference.com/players/l/loydjo01.html,8,6-4,210,Toronto Raptors,2019
+567,Patrick McCaw,SG,https://www.basketball-reference.com/players/m/mccawpa01.html,1,6-7,181,Toronto Raptors,2019
+568,Jodie Meeks,SG,https://www.basketball-reference.com/players/m/meeksjo01.html,20,6-4,210,Toronto Raptors,2019
+569,C.J. Miles,SF,https://www.basketball-reference.com/players/m/milescj01.html,0,6-6,220,Toronto Raptors,2019
+570,Malcolm Miller,SF,https://www.basketball-reference.com/players/m/millema01.html,13,6-7,210,Toronto Raptors,2019
+571,Greg Monroe,C,https://www.basketball-reference.com/players/m/monrogr01.html,15,6-11,265,Toronto Raptors,2019
+572,Eric Moreland,PF,https://www.basketball-reference.com/players/m/moreler01.html,15,6-10,238,Toronto Raptors,2019
+573,Norman Powell,SG,https://www.basketball-reference.com/players/p/powelno01.html,24,6-3,215,Toronto Raptors,2019
+574,Malachi Richardson,SG,https://www.basketball-reference.com/players/r/richama01.html,22,6-6,205,Toronto Raptors,2019
+575,Pascal Siakam,PF,https://www.basketball-reference.com/players/s/siakapa01.html,43,6-9,230,Toronto Raptors,2019
+576,Jonas Valanciunas,C,https://www.basketball-reference.com/players/v/valanjo01.html,17,6-11,265,Toronto Raptors,2019
+577,Fred VanVleet,PG,https://www.basketball-reference.com/players/v/vanvlfr01.html,23,6-1,197,Toronto Raptors,2019
+578,Delon Wright,PG,https://www.basketball-reference.com/players/w/wrighde01.html,55,6-5,185,Toronto Raptors,2019
+579,Grayson Allen,SG,https://www.basketball-reference.com/players/a/allengr01.html,24,6-4,198,Utah Jazz,2019
+580,Tony Bradley,C,https://www.basketball-reference.com/players/b/bradlto01.html,13,6-10,248,Utah Jazz,2019
+581,Alec Burks,SG,https://www.basketball-reference.com/players/b/burksal01.html,10,6-6,214,Utah Jazz,2019
+582,Tyler Cavanaugh,PF,https://www.basketball-reference.com/players/c/cavanty01.html,34,6-9,238,Utah Jazz,2019
+583,Jae Crowder,SF,https://www.basketball-reference.com/players/c/crowdja01.html,99,6-6,235,Utah Jazz,2019
+584,Dante Exum,PG,https://www.basketball-reference.com/players/e/exumda01.html,11,6-5,214,Utah Jazz,2019
+585,Derrick Favors,C,https://www.basketball-reference.com/players/f/favorde01.html,15,6-9,265,Utah Jazz,2019
+586,Rudy Gobert,C,https://www.basketball-reference.com/players/g/goberru01.html,27,7-1,258,Utah Jazz,2019
+587,Joe Ingles,PF,https://www.basketball-reference.com/players/i/inglejo01.html,2,6-7,220,Utah Jazz,2019
+588,Kyle Korver,SG,https://www.basketball-reference.com/players/k/korveky01.html,26,6-7,212,Utah Jazz,2019
+589,Donovan Mitchell,SG,https://www.basketball-reference.com/players/m/mitchdo01.html,45,6-1,215,Utah Jazz,2019
+590,Naz Mitrou-Long,SG,https://www.basketball-reference.com/players/m/mitrona01.html,30,6-3,218,Utah Jazz,2019
+591,Raul Neto,PG,https://www.basketball-reference.com/players/n/netora01.html,25,6-1,180,Utah Jazz,2019
+592,Georges Niang,PF,https://www.basketball-reference.com/players/n/niangge01.html,31,6-7,230,Utah Jazz,2019
+593,Royce O'Neale,SF,https://www.basketball-reference.com/players/o/onealro01.html,23,6-4,226,Utah Jazz,2019
+594,Ricky Rubio,PG,https://www.basketball-reference.com/players/r/rubiori01.html,3,6-3,190,Utah Jazz,2019
+595,Thabo Sefolosha,SF,https://www.basketball-reference.com/players/s/sefolth01.html,22,6-6,215,Utah Jazz,2019
+596,Ekpe Udoh,C,https://www.basketball-reference.com/players/u/udohek01.html,33,6-10,245,Utah Jazz,2019
+597,Trevor Ariza,SF,https://www.basketball-reference.com/players/a/arizatr01.html,1,6-8,215,Washington Wizards,2019
+598,Ron Baker,SG,https://www.basketball-reference.com/players/b/bakerro01.html,84,6-4,220,Washington Wizards,2019
+599,Bradley Beal,SG,https://www.basketball-reference.com/players/b/bealbr01.html,3,6-3,207,Washington Wizards,2019
+600,Troy Brown,SF,https://www.basketball-reference.com/players/b/browntr01.html,6,6-6,215,Washington Wizards,2019
+601,Thomas Bryant,C,https://www.basketball-reference.com/players/b/bryanth01.html,13,6-10,248,Washington Wizards,2019
+602,Sam Dekker,PF,https://www.basketball-reference.com/players/d/dekkesa01.html,8,6-9,230,Washington Wizards,2019
+603,Jeff Green,PF,https://www.basketball-reference.com/players/g/greenje02.html,32,6-8,235,Washington Wizards,2019
+604,Dwight Howard,C,https://www.basketball-reference.com/players/h/howardw01.html,21,6-10,265,Washington Wizards,2019
+605,John Jenkins,SG,https://www.basketball-reference.com/players/j/jenkijo01.html,20,6-4,215,Washington Wizards,2019
+606,Wesley Johnson,SF,https://www.basketball-reference.com/players/j/johnswe01.html,4,6-7,215,Washington Wizards,2019
+607,Ian Mahinmi,C,https://www.basketball-reference.com/players/m/mahinia01.html,28,6-11,262,Washington Wizards,2019
+608,Jordan McRae,SG,https://www.basketball-reference.com/players/m/mcraejo01.html,52,6-5,179,Washington Wizards,2019
+609,Markieff Morris,PF,https://www.basketball-reference.com/players/m/morrima02.html,5,6-8,245,Washington Wizards,2019
+610,Kelly Oubre,SF,https://www.basketball-reference.com/players/o/oubreke01.html,12,6-7,203,Washington Wizards,2019
+611,Jabari Parker,PF,https://www.basketball-reference.com/players/p/parkeja01.html,12,6-8,245,Washington Wizards,2019
+612,Gary Payton,PG,https://www.basketball-reference.com/players/p/paytoga02.html,4,6-3,190,Washington Wizards,2019
+613,Otto Porter,SF,https://www.basketball-reference.com/players/p/porteot01.html,22,6-8,198,Washington Wizards,2019
+614,Bobby Portis,PF,https://www.basketball-reference.com/players/p/portibo01.html,5,6-10,250,Washington Wizards,2019
+615,Chasson Randle,PG,https://www.basketball-reference.com/players/r/randlch01.html,9,6-2,185,Washington Wizards,2019
+616,Austin Rivers,SG,https://www.basketball-reference.com/players/r/riverau01.html,1,6-3,200,Washington Wizards,2019
+617,Devin Robinson,SF,https://www.basketball-reference.com/players/r/robinde01.html,7,6-8,200,Washington Wizards,2019
+618,Tomas Satoransky,PG,https://www.basketball-reference.com/players/s/satorto01.html,31,6-7,210,Washington Wizards,2019
+619,Jason Smith,C,https://www.basketball-reference.com/players/s/smithja02.html,14,7-0,240,Washington Wizards,2019
+620,John Wall,PG,https://www.basketball-reference.com/players/w/walljo01.html,2,6-4,210,Washington Wizards,2019
+621,Okaro White,PF,https://www.basketball-reference.com/players/w/whiteok01.html,15,6-8,205,Washington Wizards,2019

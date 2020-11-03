@@ -1,0 +1,84 @@
+,G,Date0,Date,Opponent,WinLoss,TmScore,OppScore,W,L,Streak,GameType
+0,1,"Thu, Oct 24, 2019",10/24/2019,Houston Rockets,W,117,111,1,0,W 1,regular season
+1,2,"Sat, Oct 26, 2019",10/26/2019,Miami Heat,L,126,131,1,1,L 1,regular season
+2,3,"Mon, Oct 28, 2019",10/28/2019,Cleveland Cavaliers,W,129,112,2,1,W 1,regular season
+3,4,"Wed, Oct 30, 2019",10/30/2019,Boston Celtics,L,105,116,2,2,L 1,regular season
+4,5,"Fri, Nov 1, 2019",11/01/2019,Orlando Magic,W,123,91,3,2,W 1,regular season
+5,6,"Sat, Nov 2, 2019",11/02/2019,Toronto Raptors,W,115,105,4,2,W 2,regular season
+6,7,"Mon, Nov 4, 2019",11/04/2019,Minnesota Timberwolves,W,134,106,5,2,W 3,regular season
+7,8,"Wed, Nov 6, 2019",11/06/2019,Los Angeles Clippers,W,129,124,6,2,W 4,regular season
+8,9,"Fri, Nov 8, 2019",11/08/2019,Utah Jazz,L,100,103,6,3,L 1,regular season
+9,10,"Sun, Nov 10, 2019",11/10/2019,Oklahoma City Thunder,W,121,119,7,3,W 1,regular season
+10,11,"Thu, Nov 14, 2019",11/14/2019,Chicago Bulls,W,124,115,8,3,W 2,regular season
+11,12,"Sat, Nov 16, 2019",11/16/2019,Indiana Pacers,W,102,83,9,3,W 3,regular season
+12,13,"Mon, Nov 18, 2019",11/18/2019,Chicago Bulls,W,115,101,10,3,W 4,regular season
+13,14,"Wed, Nov 20, 2019",11/20/2019,Atlanta Hawks,W,135,127,11,3,W 5,regular season
+14,15,"Thu, Nov 21, 2019",11/21/2019,Portland Trail Blazers,W,137,129,12,3,W 6,regular season
+15,16,"Sat, Nov 23, 2019",11/23/2019,Detroit Pistons,W,104,90,13,3,W 7,regular season
+16,17,"Mon, Nov 25, 2019",11/25/2019,Utah Jazz,W,122,118,14,3,W 8,regular season
+17,18,"Wed, Nov 27, 2019",11/27/2019,Atlanta Hawks,W,111,102,15,3,W 9,regular season
+18,19,"Fri, Nov 29, 2019",11/29/2019,Cleveland Cavaliers,W,119,110,16,3,W 10,regular season
+19,20,"Sat, Nov 30, 2019",11/30/2019,Charlotte Hornets,W,137,96,17,3,W 11,regular season
+20,21,"Mon, Dec 2, 2019",12/02/2019,New York Knicks,W,132,88,18,3,W 12,regular season
+21,22,"Wed, Dec 4, 2019",12/04/2019,Detroit Pistons,W,127,103,19,3,W 13,regular season
+22,23,"Fri, Dec 6, 2019",12/06/2019,Los Angeles Clippers,W,119,91,20,3,W 14,regular season
+23,24,"Mon, Dec 9, 2019",12/09/2019,Orlando Magic,W,110,101,21,3,W 15,regular season
+24,25,"Wed, Dec 11, 2019",12/11/2019,New Orleans Pelicans,W,127,112,22,3,W 16,regular season
+25,26,"Fri, Dec 13, 2019",12/13/2019,Memphis Grizzlies,W,127,114,23,3,W 17,regular season
+26,27,"Sat, Dec 14, 2019",12/14/2019,Cleveland Cavaliers,W,125,108,24,3,W 18,regular season
+27,28,"Mon, Dec 16, 2019",12/16/2019,Dallas Mavericks,L,116,120,24,4,L 1,regular season
+28,29,"Thu, Dec 19, 2019",12/19/2019,Los Angeles Lakers,W,111,104,25,4,W 1,regular season
+29,30,"Sat, Dec 21, 2019",12/21/2019,New York Knicks,W,123,102,26,4,W 2,regular season
+30,31,"Sun, Dec 22, 2019",12/22/2019,Indiana Pacers,W,117,89,27,4,W 3,regular season
+31,32,"Wed, Dec 25, 2019",12/25/2019,Philadelphia 76ers,L,109,121,27,5,L 1,regular season
+32,33,"Fri, Dec 27, 2019",12/27/2019,Atlanta Hawks,W,112,86,28,5,W 1,regular season
+33,34,"Sat, Dec 28, 2019",12/28/2019,Orlando Magic,W,111,100,29,5,W 2,regular season
+34,35,"Mon, Dec 30, 2019",12/30/2019,Chicago Bulls,W,123,102,30,5,W 3,regular season
+35,36,"Wed, Jan 1, 2020",01/01/2020,Minnesota Timberwolves,W,106,104,31,5,W 4,regular season
+36,37,"Sat, Jan 4, 2020",01/04/2020,San Antonio Spurs,W,127,118,32,5,W 5,regular season
+37,38,"Mon, Jan 6, 2020",01/06/2020,San Antonio Spurs,L,104,126,32,6,L 1,regular season
+38,39,"Wed, Jan 8, 2020",01/08/2020,Golden State Warriors,W,107,98,33,6,W 1,regular season
+39,40,"Fri, Jan 10, 2020",01/10/2020,Sacramento Kings,W,127,106,34,6,W 2,regular season
+40,41,"Sat, Jan 11, 2020",01/11/2020,Portland Trail Blazers,W,122,101,35,6,W 3,regular season
+41,42,"Tue, Jan 14, 2020",01/14/2020,New York Knicks,W,128,102,36,6,W 4,regular season
+42,43,"Thu, Jan 16, 2020",01/16/2020,Boston Celtics,W,128,123,37,6,W 5,regular season
+43,44,"Sat, Jan 18, 2020",01/18/2020,Brooklyn Nets,W,117,97,38,6,W 6,regular season
+44,45,"Mon, Jan 20, 2020",01/20/2020,Chicago Bulls,W,111,98,39,6,W 7,regular season
+45,46,"Fri, Jan 24, 2020",01/24/2020,Charlotte Hornets,W,116,103,40,6,W 8,regular season
+46,47,"Tue, Jan 28, 2020",01/28/2020,Washington Wizards,W,151,131,41,6,W 9,regular season
+47,48,"Fri, Jan 31, 2020",01/31/2020,Denver Nuggets,L,115,127,41,7,L 1,regular season
+48,49,"Sun, Feb 2, 2020",02/02/2020,Phoenix Suns,W,129,108,42,7,W 1,regular season
+49,50,"Tue, Feb 4, 2020",02/04/2020,New Orleans Pelicans,W,120,108,43,7,W 2,regular season
+50,51,"Thu, Feb 6, 2020",02/06/2020,Philadelphia 76ers,W,112,101,44,7,W 3,regular season
+51,52,"Sat, Feb 8, 2020",02/08/2020,Orlando Magic,W,111,95,45,7,W 4,regular season
+52,53,"Mon, Feb 10, 2020",02/10/2020,Sacramento Kings,W,123,111,46,7,W 5,regular season
+53,54,"Wed, Feb 12, 2020",02/12/2020,Indiana Pacers,L,111,118,46,8,L 1,regular season
+54,55,"Thu, Feb 20, 2020",02/20/2020,Detroit Pistons,W,126,106,47,8,W 1,regular season
+55,56,"Sat, Feb 22, 2020",02/22/2020,Philadelphia 76ers,W,119,98,48,8,W 2,regular season
+56,57,"Mon, Feb 24, 2020",02/24/2020,Washington Wizards,W,137,134,49,8,W 3,regular season
+57,58,"Tue, Feb 25, 2020",02/25/2020,Toronto Raptors,W,108,97,50,8,W 4,regular season
+58,59,"Fri, Feb 28, 2020",02/28/2020,Oklahoma City Thunder,W,133,86,51,8,W 5,regular season
+59,60,"Sun, Mar 1, 2020",03/01/2020,Charlotte Hornets,W,93,85,52,8,W 6,regular season
+60,61,"Mon, Mar 2, 2020",03/02/2020,Miami Heat,L,89,105,52,9,L 1,regular season
+61,62,"Wed, Mar 4, 2020",03/04/2020,Indiana Pacers,W,119,100,53,9,W 1,regular season
+62,63,"Fri, Mar 6, 2020",03/06/2020,Los Angeles Lakers,L,103,113,53,10,L 1,regular season
+63,64,"Sun, Mar 8, 2020",03/08/2020,Phoenix Suns,L,131,140,53,11,L 2,regular season
+64,65,"Mon, Mar 9, 2020",03/09/2020,Denver Nuggets,L,95,109,53,12,L 3,regular season
+65,66,"Fri, Jul 31, 2020",07/31/2020,Boston Celtics,W,119,112,54,12,W 1,regular season
+66,67,"Sun, Aug 2, 2020",08/02/2020,Houston Rockets,L,116,120,54,13,L 1,regular season
+67,68,"Tue, Aug 4, 2020",08/04/2020,Brooklyn Nets,L,116,119,54,14,L 2,regular season
+68,69,"Thu, Aug 6, 2020",08/06/2020,Miami Heat,W,130,116,55,14,W 1,regular season
+69,70,"Sat, Aug 8, 2020",08/08/2020,Dallas Mavericks,L,132,136,55,15,L 1,regular season
+70,71,"Mon, Aug 10, 2020",08/10/2020,Toronto Raptors,L,106,114,55,16,L 2,regular season
+71,72,"Tue, Aug 11, 2020",08/11/2020,Washington Wizards,W,126,113,56,16,W 1,regular season
+72,73,"Thu, Aug 13, 2020",08/13/2020,Memphis Grizzlies,L,106,119,56,17,L 1,regular season
+73,1,"Tue, Aug 18, 2020",08/18/2020,Orlando Magic,L,110,122,0,1,L 1,playoffs
+74,2,"Thu, Aug 20, 2020",08/20/2020,Orlando Magic,W,111,96,1,1,W 1,playoffs
+75,3,"Sat, Aug 22, 2020",08/22/2020,Orlando Magic,W,121,107,2,1,W 2,playoffs
+76,4,"Mon, Aug 24, 2020",08/24/2020,Orlando Magic,W,121,106,3,1,W 3,playoffs
+77,5,"Sat, Aug 29, 2020",08/29/2020,Orlando Magic,W,118,104,4,1,W 4,playoffs
+78,6,"Mon, Aug 31, 2020",08/31/2020,Miami Heat,L,104,115,4,2,L 1,playoffs
+79,7,"Wed, Sep 2, 2020",09/02/2020,Miami Heat,L,114,116,4,3,L 2,playoffs
+80,8,"Fri, Sep 4, 2020",09/04/2020,Miami Heat,L,100,115,4,4,L 3,playoffs
+81,9,"Sun, Sep 6, 2020",09/06/2020,Miami Heat,W,118,115,5,4,W 1,playoffs
+82,10,"Tue, Sep 8, 2020",09/08/2020,Miami Heat,L,94,103,5,5,L 1,playoffs

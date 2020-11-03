@@ -1,0 +1,94 @@
+,G,Date0,Date,Opponent,WinLoss,TmScore,OppScore,W,L,Streak,GameType
+0,1,"Wed, Oct 17, 2018",10/17/2018,New Orleans Pelicans,L,112,131,0,1,L 1,regular season
+1,2,"Sat, Oct 20, 2018",10/20/2018,Los Angeles Lakers,W,124,115,1,1,W 1,regular season
+2,3,"Sun, Oct 21, 2018",10/21/2018,Los Angeles Clippers,L,112,115,1,2,L 1,regular season
+3,4,"Wed, Oct 24, 2018",10/24/2018,Utah Jazz,L,89,100,1,3,L 2,regular season
+4,5,"Fri, Oct 26, 2018",10/26/2018,Los Angeles Clippers,L,113,133,1,4,L 3,regular season
+5,6,"Tue, Oct 30, 2018",10/30/2018,Portland Trail Blazers,L,85,104,1,5,L 4,regular season
+6,7,"Fri, Nov 2, 2018",11/02/2018,Brooklyn Nets,W,119,111,2,5,W 1,regular season
+7,8,"Sat, Nov 3, 2018",11/03/2018,Chicago Bulls,W,96,88,3,5,W 2,regular season
+8,9,"Mon, Nov 5, 2018",11/05/2018,Indiana Pacers,W,98,94,4,5,W 3,regular season
+9,10,"Thu, Nov 8, 2018",11/08/2018,Oklahoma City Thunder,L,80,98,4,6,L 1,regular season
+10,11,"Sat, Nov 10, 2018",11/10/2018,San Antonio Spurs,L,89,96,4,7,L 2,regular season
+11,12,"Sun, Nov 11, 2018",11/11/2018,Indiana Pacers,W,115,103,5,7,W 1,regular season
+12,13,"Tue, Nov 13, 2018",11/13/2018,Denver Nuggets,W,109,99,6,7,W 2,regular season
+13,14,"Thu, Nov 15, 2018",11/15/2018,Golden State Warriors,W,107,86,7,7,W 3,regular season
+14,15,"Sat, Nov 17, 2018",11/17/2018,Sacramento Kings,W,132,112,8,7,W 4,regular season
+15,16,"Wed, Nov 21, 2018",11/21/2018,Detroit Pistons,W,126,124,9,7,W 5,regular season
+16,17,"Fri, Nov 23, 2018",11/23/2018,Detroit Pistons,L,111,116,9,8,L 1,regular season
+17,18,"Sat, Nov 24, 2018",11/24/2018,Cleveland Cavaliers,L,108,117,9,9,L 2,regular season
+18,19,"Mon, Nov 26, 2018",11/26/2018,Washington Wizards,L,131,135,9,10,L 3,regular season
+19,20,"Wed, Nov 28, 2018",11/28/2018,Dallas Mavericks,L,108,128,9,11,L 4,regular season
+20,21,"Fri, Nov 30, 2018",11/30/2018,San Antonio Spurs,W,136,105,10,11,W 1,regular season
+21,22,"Sat, Dec 1, 2018",12/01/2018,Chicago Bulls,W,121,105,11,11,W 2,regular season
+22,23,"Mon, Dec 3, 2018",12/03/2018,Minnesota Timberwolves,L,91,103,11,12,L 1,regular season
+23,24,"Thu, Dec 6, 2018",12/06/2018,Utah Jazz,L,91,118,11,13,L 2,regular season
+24,25,"Sat, Dec 8, 2018",12/08/2018,Dallas Mavericks,L,104,107,11,14,L 3,regular season
+25,26,"Tue, Dec 11, 2018",12/11/2018,Portland Trail Blazers,W,111,104,12,14,W 1,regular season
+26,27,"Thu, Dec 13, 2018",12/13/2018,Los Angeles Lakers,W,126,111,13,14,W 2,regular season
+27,28,"Sat, Dec 15, 2018",12/15/2018,Memphis Grizzlies,W,105,97,14,14,W 3,regular season
+28,29,"Mon, Dec 17, 2018",12/17/2018,Utah Jazz,W,102,97,15,14,W 4,regular season
+29,30,"Wed, Dec 19, 2018",12/19/2018,Washington Wizards,W,136,118,16,14,W 5,regular season
+30,31,"Thu, Dec 20, 2018",12/20/2018,Miami Heat,L,99,101,16,15,L 1,regular season
+31,32,"Sat, Dec 22, 2018",12/22/2018,San Antonio Spurs,W,108,101,17,15,W 1,regular season
+32,33,"Tue, Dec 25, 2018",12/25/2018,Oklahoma City Thunder,W,113,109,18,15,W 2,regular season
+33,34,"Thu, Dec 27, 2018",12/27/2018,Boston Celtics,W,127,113,19,15,W 3,regular season
+34,35,"Sat, Dec 29, 2018",12/29/2018,New Orleans Pelicans,W,108,104,20,15,W 4,regular season
+35,36,"Mon, Dec 31, 2018",12/31/2018,Memphis Grizzlies,W,113,101,21,15,W 5,regular season
+36,37,"Thu, Jan 3, 2019",01/03/2019,Golden State Warriors,W,135,134,22,15,W 6,regular season
+37,38,"Sat, Jan 5, 2019",01/05/2019,Portland Trail Blazers,L,101,110,22,16,L 1,regular season
+38,39,"Mon, Jan 7, 2019",01/07/2019,Denver Nuggets,W,125,113,23,16,W 1,regular season
+39,40,"Wed, Jan 9, 2019",01/09/2019,Milwaukee Bucks,L,109,116,23,17,L 1,regular season
+40,41,"Fri, Jan 11, 2019",01/11/2019,Cleveland Cavaliers,W,141,113,24,17,W 1,regular season
+41,42,"Sun, Jan 13, 2019",01/13/2019,Orlando Magic,L,109,116,24,18,L 1,regular season
+42,43,"Mon, Jan 14, 2019",01/14/2019,Memphis Grizzlies,W,112,94,25,18,W 1,regular season
+43,44,"Wed, Jan 16, 2019",01/16/2019,Brooklyn Nets,L,142,145,25,19,L 1,regular season
+44,45,"Sat, Jan 19, 2019",01/19/2019,Los Angeles Lakers,W,138,134,26,19,W 1,regular season
+45,46,"Mon, Jan 21, 2019",01/21/2019,Philadelphia 76ers,L,93,121,26,20,L 1,regular season
+46,47,"Wed, Jan 23, 2019",01/23/2019,New York Knicks,W,114,110,27,20,W 1,regular season
+47,48,"Fri, Jan 25, 2019",01/25/2019,Toronto Raptors,W,121,119,28,20,W 2,regular season
+48,49,"Sun, Jan 27, 2019",01/27/2019,Orlando Magic,W,103,98,29,20,W 3,regular season
+49,50,"Tue, Jan 29, 2019",01/29/2019,New Orleans Pelicans,L,116,121,29,21,L 1,regular season
+50,51,"Fri, Feb 1, 2019",02/01/2019,Denver Nuggets,L,122,136,29,22,L 2,regular season
+51,52,"Sat, Feb 2, 2019",02/02/2019,Utah Jazz,W,125,98,30,22,W 1,regular season
+52,53,"Mon, Feb 4, 2019",02/04/2019,Phoenix Suns,W,118,110,31,22,W 2,regular season
+53,54,"Wed, Feb 6, 2019",02/06/2019,Sacramento Kings,W,127,101,32,22,W 3,regular season
+54,55,"Sat, Feb 9, 2019",02/09/2019,Oklahoma City Thunder,L,112,117,32,23,L 1,regular season
+55,56,"Mon, Feb 11, 2019",02/11/2019,Dallas Mavericks,W,120,104,33,23,W 1,regular season
+56,57,"Wed, Feb 13, 2019",02/13/2019,Minnesota Timberwolves,L,111,121,33,24,L 1,regular season
+57,58,"Thu, Feb 21, 2019",02/21/2019,Los Angeles Lakers,L,106,111,33,25,L 2,regular season
+58,59,"Sat, Feb 23, 2019",02/23/2019,Golden State Warriors,W,118,112,34,25,W 1,regular season
+59,60,"Mon, Feb 25, 2019",02/25/2019,Atlanta Hawks,W,119,111,35,25,W 2,regular season
+60,61,"Wed, Feb 27, 2019",02/27/2019,Charlotte Hornets,W,118,113,36,25,W 3,regular season
+61,62,"Thu, Feb 28, 2019",02/28/2019,Miami Heat,W,121,118,37,25,W 4,regular season
+62,63,"Sun, Mar 3, 2019",03/03/2019,Boston Celtics,W,115,104,38,25,W 5,regular season
+63,64,"Tue, Mar 5, 2019",03/05/2019,Toronto Raptors,W,107,95,39,25,W 6,regular season
+64,65,"Fri, Mar 8, 2019",03/08/2019,Philadelphia 76ers,W,107,91,40,25,W 7,regular season
+65,66,"Sun, Mar 10, 2019",03/10/2019,Dallas Mavericks,W,94,93,41,25,W 8,regular season
+66,67,"Mon, Mar 11, 2019",03/11/2019,Charlotte Hornets,W,118,106,42,25,W 9,regular season
+67,68,"Wed, Mar 13, 2019",03/13/2019,Golden State Warriors,L,104,106,42,26,L 1,regular season
+68,69,"Fri, Mar 15, 2019",03/15/2019,Phoenix Suns,W,108,102,43,26,W 1,regular season
+69,70,"Sun, Mar 17, 2019",03/17/2019,Minnesota Timberwolves,W,117,102,44,26,W 2,regular season
+70,71,"Tue, Mar 19, 2019",03/19/2019,Atlanta Hawks,W,121,105,45,26,W 3,regular season
+71,72,"Wed, Mar 20, 2019",03/20/2019,Memphis Grizzlies,L,125,126,45,27,L 1,regular season
+72,73,"Fri, Mar 22, 2019",03/22/2019,San Antonio Spurs,W,111,105,46,27,W 1,regular season
+73,74,"Sun, Mar 24, 2019",03/24/2019,New Orleans Pelicans,W,113,90,47,27,W 2,regular season
+74,75,"Tue, Mar 26, 2019",03/26/2019,Milwaukee Bucks,L,94,108,47,28,L 1,regular season
+75,76,"Thu, Mar 28, 2019",03/28/2019,Denver Nuggets,W,112,85,48,28,W 1,regular season
+76,77,"Sat, Mar 30, 2019",03/30/2019,Sacramento Kings,W,119,108,49,28,W 2,regular season
+77,78,"Tue, Apr 2, 2019",04/02/2019,Sacramento Kings,W,130,105,50,28,W 3,regular season
+78,79,"Wed, Apr 3, 2019",04/03/2019,Los Angeles Clippers,W,135,103,51,28,W 4,regular season
+79,80,"Fri, Apr 5, 2019",04/05/2019,New York Knicks,W,120,96,52,28,W 5,regular season
+80,81,"Sun, Apr 7, 2019",04/07/2019,Phoenix Suns,W,149,113,53,28,W 6,regular season
+81,82,"Tue, Apr 9, 2019",04/09/2019,Oklahoma City Thunder,L,111,112,53,29,L 1,regular season
+82,1,"Sun, Apr 14, 2019",04/14/2019,Utah Jazz,W,122,90,1,0,W 1,regular season
+83,2,"Wed, Apr 17, 2019",04/17/2019,Utah Jazz,W,118,98,2,0,W 2,playoffs
+84,3,"Sat, Apr 20, 2019",04/20/2019,Utah Jazz,W,104,101,3,0,W 3,playoffs
+85,4,"Mon, Apr 22, 2019",04/22/2019,Utah Jazz,L,91,107,3,1,L 1,playoffs
+86,5,"Wed, Apr 24, 2019",04/24/2019,Utah Jazz,W,100,93,4,1,W 1,playoffs
+87,6,"Sun, Apr 28, 2019",04/28/2019,Golden State Warriors,L,100,104,4,2,L 1,playoffs
+88,7,"Tue, Apr 30, 2019",04/30/2019,Golden State Warriors,L,109,115,4,3,L 2,playoffs
+89,8,"Sat, May 4, 2019",05/04/2019,Golden State Warriors,W,126,121,5,3,W 1,playoffs
+90,9,"Mon, May 6, 2019",05/06/2019,Golden State Warriors,W,112,108,6,3,W 2,playoffs
+91,10,"Wed, May 8, 2019",05/08/2019,Golden State Warriors,L,99,104,6,4,L 1,playoffs
+92,11,"Fri, May 10, 2019",05/10/2019,Golden State Warriors,L,113,118,6,5,L 2,playoffs
